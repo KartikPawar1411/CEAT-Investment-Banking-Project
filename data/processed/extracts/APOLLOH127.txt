@@ -1,0 +1,354 @@
+Scrip Code | 500877
+NSE Symbol | APOLLOTYRE
+MSEI Symbol | NA
+ISIN | INE438A01022
+Name of company | APOLLO TYRES LIMITED
+Type of company | Main Board
+Class of security | Equity
+Date of start of financial year | 01-04-2026
+Date of end of financial year | 31-03-2027
+Date of board meeting when results were approved | 04-11-2026
+Date on which prior intimation of the meeting for considering financial results was informed to the exchange | 
+Description of presentation currency | INR
+Level of rounding used in financial results | Lakhs
+Reporting Type | Quarterly
+Reporting Quarter | Second quarter
+Nature of report standalone or consolidated | Consolidated
+Whether results are audited or unaudited for the quarter ended | Unaudited
+Whether results are audited or unaudited for the Year to date for current period ended/year ended | Unaudited
+Segment Reporting | Multi segment
+Description of single segment | 
+Start date and time of board meeting | 04-11-2026 14:00:00
+End date and time of board meeting | 04-11-2026 15:55:00
+Whether cash flow statement is applicable on company | Yes
+Type of cash flow statement | Cash Flow Indirect
+Declaration of unmodified opinion or statement on impact of audit qualification | Not applicable
+Particulars | 3 months/ 6 months ended (dd-mm-yyyy) | Year to date figures for current period ended (dd-mm-yyyy)
+A | Date of start of reporting period | 01-07-2026 | 01-04-2026
+B | Date of end of reporting period | 30-09-2026 | 30-09-2026
+C | Whether results are audited or unaudited | Unaudited | Unaudited
+D | Nature of report standalone or consolidated | Consolidated | Consolidated
+1 | Income
+ | Revenue from operations | 7,96,815.00 | 15,36,594.00
+ | Other income | 4,235.80 | 10,068.90
+ | Total income | 8,01,050.80 | 15,46,662.90
+2 | Expenses
+(a) | Cost of materials consumed | 4,24,142.30 | 8,33,101.80
+(b) | Purchases of stock-in-trade | 84,880.60 | 1,40,047.20
+(c) | Changes in inventories of finished goods, work-in-progress and stock-in-trade | (18,587.50) | (60,504.80)
+(d) | Employee benefit expense | 83,090.40 | 1,79,370.20
+(e) | Finance costs | 9,423.90 | 18,570.90
+(f) | Depreciation, depletion and amortisation expense | 38,061.60 | 77,135.10
+(f) | Other Expenses
+
+1 | Other Expenses | 1,37,754.20 | 2,72,247.70
+ | Total other expenses | 1,37,754.20 | 2,72,247.70
+ | Total expenses | 7,58,765.50 | 14,59,968.10
+3 | Total profit before exceptional items and tax | 42,285.30 | 86,694.80
+4 | Exceptional items | (2,685.30) | (331.70)
+5 | Total profit before tax | 39,600.00 | 86,363.10
+6 | Tax expense | 
+7 | Current tax | 7,130.30 | 18,442.40
+8 | Deferred tax | 3,258.50 | 3,828.50
+9 | Total tax expenses | 10,388.80 | 22,270.90
+10 | Net movement in regulatory deferral account balances related to profit or loss and the related deferred tax movement | 0.00 | 0.00
+11 | Net Profit Loss for the period from continuing operations | 29,211.20 | 64,092.20
+12 | Profit (loss) from discontinued operations before tax | 0.00 | 0.00
+13 | Tax expense of discontinued operations | 0.00 | 0.00
+14 | Net profit (loss) from discontinued operation after tax | 0.00 | 0.00
+15 | Share of profit (loss) of associates and joint ventures accounted for using equity method | 17.50 | 23.70
+16 | Total profit (loss) for period | 29,228.70 | 64,115.90
+17 | Other comprehensive income net of taxes | (810.70) | 34,834.40
+18 | Total Comprehensive Income for the period | 28,418.00 | 98,950.30
+19 | Total profit or loss, attributable to |  | 
+ | Profit or loss, attributable to owners of parent | 29,228.70 | 64,115.90
+ | Total profit or loss, attributable to non-controlling interests | 0.00 | 0.00
+20 | Total Comprehensive income for the period attributable to |  | 
+ | Comprehensive income for the period attributable to owners of parent | 28,418.00 | 98,950.30
+ | Total comprehensive income for the period attributable to owners of parent non-controlling interests | 0.00 | 0.00
+21 | Details of equity share capital | 
+ | Paid-up equity share capital | 6,351.00 | 6,351.00
+ | Face value of equity share capital | 1 | 1
+27 | Details of debt securities | 
+22 | Reserves excluding revaluation reserve |  | 
+23 | Earnings per share | 
+i | Earnings per equity share for continuing operations | 
+ | Basic earnings (loss) per share from continuing operations | 4.62 | 10.14
+ | Diluted earnings (loss) per share from continuing operations | 4.62 | 10.14
+ii | Earnings per equity share for discontinued operations | 
+ | Basic earnings (loss) per share from discontinued operations | 0 | 0
+ | Diluted earnings (loss) per share from discontinued operations | 0 | 0
+ii | Earnings per equity share | 
+ | Basic earnings (loss) per share from continuing and discontinued operations | 4.62 | 10.14
+ | Diluted earnings (loss) per share from continuing and discontinued operations | 4.62 | 10.14
+24 | Debt equity ratio | 0.2500 | 0.2500
+25 | Debt service coverage ratio | 5.9600 | 5.9600
+26 | Interest service coverage ratio | 7.7200 | 8.5600
+27 | Disclosure of notes on financial results | 
+Debt equity ratio | 
+Debt service coverage ratio | 
+Interest service coverage ratio | 
+Particulars | Year ended (dd-mm-yyyy)
+Date of start of reporting period | 01-04-2026
+Date of end of reporting period | 30-09-2026
+Whether results are audited or unaudited | Unaudited
+Nature of report standalone or consolidated | Consolidated
+ | Assets
+1 | Non-current assets
+ | Property, plant and equipment | 14,13,371.20
+ | Capital work-in-progress | 2,32,425.50
+ | Investment property | 
+ | Goodwill | 27,929.90
+ | Other intangible assets | 1,83,207.00
+ | Intangible assets under development | 21,650.60
+ | Biological assets other than bearer plants | 
+ | Investments accounted for using equity method | 684.30
+ | Non-current financial assets | 
+ | Non-current investments | 4,994.40
+ | Trade receivables, non-current | 0.00
+ | Loans, non-current | 0.00
+ | Other non-current financial assets | 
+1 | Other financial assets | 41,171.70
+ | Total of other non-current financial assets | 41,171.70
+ | Total non-current financial assets | 46,166.10
+ | Deferred tax assets (net) | 14,547.80
+ | Other non-current assets | 
+1 | Other non-current assets | 48,146.30
+ | Total of other non-current assets | 48,146.30
+ | Total non-current assets | 19,88,128.70
+2 | Current assets | 
+ | Inventories | 6,11,453.50
+ | Current financial asset | 
+ | Current investments | 0.00
+ | Trade receivables, current | 3,90,886.60
+ | Cash and cash equivalents | 97,331.90
+ | Bank balance other than cash and cash equivalents | 1,455.20
+ | Loans, current | 0.00
+ | Other current financial assets | 
+ | Total of other current financial assets | 22,979.40
+ | Total current financial assets | 5,12,653.10
+ | Current tax assets (net) | 
+ | Other current assets | 
+1 | Other current assets | 1,08,561.50
+ | Total of other current assets | 1,08,561.50
+ | Total current assets | 12,32,668.10
+3 | Non-current assets classified as held for sale | 
+4 | Regulatory deferral account debit balances and related deferred tax Assets | 
+ | Total assets | 32,20,796.80
+ | Equity and liabilities | 
+1 | Equity | 
+ | Equity attributable to owners of parent | 
+ | Equity share capital | 6,351.00
+ | Other equity | 17,48,965.00
+ | Total equity attributable to owners of parent | 17,55,316.00
+ | Non controlling interest | 
+ | Total equity | 17,55,316.00
+2 | Liabilities | 
+ | Non-current liabilities | 
+ | Non-current financial liabilities | 
+ | Borrowings, non-current | 1,64,270.60
+ | Trade payables, non-current | 
+ | (A) Total outstanding dues of micro enterprises and small enterprises | 
+ | (B) Total outstanding dues of creditors other than micro enterprises and small enterprises | 
+ | Total Trade payable | 
+ | Other non-current financial liabilities | 
+1 | Lease liability | 86,387.10
+ | Total of other non-current financial liabilities | 86,387.10
+ | Total non-current financial liabilities | 2,50,657.70
+ | Provisions, non-current | 20,028.10
+ | Deferred tax liabilities (net) | 1,42,241.00
+ | Deferred government grants, Non-current | 
+ | Other non-current liabilities | 
+1 | Other non-current liabilities | 44,814.90
+ | Total of other non-current liabilities | 44,814.90
+ | Total non-current liabilities | 4,57,741.70
+ | Current liabilities | 
+ | Current financial liabilities | 
+ | Borrowings, current | 2,67,332.70
+ | Trade payables, current | 
+ | (A) Total outstanding dues of micro enterprises and small enterprises | 6,737.70
+ | (B) Total outstanding dues of creditors other than micro enterprises and small enterprises | 4,01,301.40
+ | Total Trade payable | 4,08,039.10
+ | Other current financial liabilities | 
+1 | Lease liabilities | 33,316.10
+2 | Other financial liabilities | 68,347.60
+ | Total of other current financial liabilities | 1,01,663.70
+ | Total current financial liabilities | 7,77,035.50
+ | Other current liabilities | 1,89,415.20
+1 | Other current liabilities | 1,89,415.20
+ | Total of other current liabilities | 1,89,415.20
+ | Provisions, current | 33,670.30
+ | Current tax liabilities (Net) | 7,618.10
+ | Deferred government grants, Current | 
+ | Total current liabilities | 10,07,739.10
+3 | Liabilities directly associated with assets in disposal group classified as held for sale | 
+4 | Regulatory deferral account credit balances and related deferred tax liability | 
+ | Total liabilities | 14,65,480.80
+ | Total equity and liabilites | 32,20,796.80
+ | Disclosure of notes on assets and liabilities | 
+Particulars | 3 months/ 6 month ended (dd-mm-yyyy) | Year to date figures for current period ended (dd-mm-yyyy)
+Date of start of reporting period | 01-07-2026 | 01-04-2026
+Date of end of reporting period | 30-09-2026 | 30-09-2026
+Whether results are audited or unaudited | Unaudited | Unaudited
+Nature of report standalone or consolidated | Consolidated | Consolidated
+1 | Segment Revenue (Income)
+ | (net sale/income from each segment should be disclosed)
+
+1 | APMEA | 5,97,323.40 | 11,50,198.30
+
+2 | Europe | 2,15,556.80 | 4,19,414.40
+
+3 | Others | 26,821.60 | 49,802.80
+ | Total Segment Revenue | 8,39,701.80 | 16,19,415.50
+ | Less: Inter segment revenue | 42,886.80 | 82,821.50
+ | Revenue from operations | 7,96,815.00 | 15,36,594.00
+2 | Segment Result
+ | Profit (+) / Loss (-) before tax and interest from each segment
+
+1 | APMEA | 46,169.50 | 94,412.00
+
+2 | Europe | 5,205.70 | 6,723.40
+
+3 | Others | 334.00 | 4,130.30
+ | Total Profit before tax | 51,709.20 | 1,05,265.70
+ | i. Finance cost | 9,423.90 | 18,570.90
+ | ii. Other Unallocable Expenditure net off Unallocable income | 2,685.30 | 331.70
+ | Profit before tax | 39,600.00 | 86,363.10
+3 | (Segment Asset - Segment Liabilities)
+ | Segment Asset
+1 | APMEA | 21,48,071.60 | 21,48,071.60
+2 | Europe | 11,03,262.00 | 11,03,262.00
+3 | Others | 1,13,296.60 | 1,13,296.60
+ | Total Segment Asset | 33,64,630.20 | 33,64,630.20
+ | Un-allocable Assets | (1,43,833.40) | (1,43,833.40)
+ | Net Segment Asset | 32,20,796.80 | 32,20,796.80
+4 | Segment Liabilities
+ | Segment Liabilities
+1 | APMEA | 11,34,308.80 | 11,34,308.80
+2 | Europe | 4,18,159.90 | 4,18,159.90
+3 | Others | 52,359.70 | 52,359.70
+ | Total Segment Liabilities | 16,04,828.40 | 16,04,828.40
+ | Un-allocable Liabilities | (1,39,347.60) | (1,39,347.60)
+ | Net Segment Liabilities | 14,65,480.80 | 14,65,480.80
+ | Disclosure of notes on segments | 
+Particulars | 3 months/ 6 months ended (dd-mm-yyyy) | Year to date figures for current period ended (dd-mm-yyyy)
+A | Date of start of reporting period | 01-07-2026 | 01-04-2026
+B | Date of end of reporting period | 30-09-2026 | 30-09-2026
+C | Whether results are audited or unaudited | Unaudited | Unaudited
+D | Nature of report standalone or consolidated | Consolidated | Consolidated
+ | Other comprehensive income [Abstract] | 
+1 | Amount of items that will not be reclassified to profit and loss | 
+
+1 | Re-measurement gain / (loss) of defined benefit plans | (934.30) | (654.80)
+ | Total Amount of items that will not be reclassified to profit and loss | (934.30) | (654.80)
+2 | Income tax relating to items that will not be reclassified to profit or loss | (235.10) | (164.80)
+3 | Amount of items that will be reclassified to profit and loss | 
+
+1 | Exchange differences in translating the financial statements of foreign operations | (104.70) | 35,331.20
+
+2 | Effective portion of gain / (loss) on designated portion of hedging instruments in cash flow hedge | (9.10) | (9.10)
+ | Total Amount of items that will be reclassified to profit and loss | (113.80) | 35,322.10
+4 | Income tax relating to items that will be reclassified to profit or loss | (2.30) | (2.30)
+5 | Total Other comprehensive income | (810.70) | 34,834.40
+Particulars | Year ended (dd-mm-yyyy)
+A | Date of start of reporting period | 01-04-2026
+B | Date of end of reporting period | 30-09-2026
+C | Whether results are audited or unaudited | Unaudited
+D | Nature of report standalone or consolidated | Consolidated
+ | Statement of cash flows | 
+ | Cash flows from used in operating activities | 
+ | Profit before tax | 86,363.10
+ | Adjustments for reconcile profit (loss) | 
+ | Adjustments for finance costs | 18,570.90
+ | Adjustments for decrease (increase) in inventories | (60,647.20)
+ | Adjustments for decrease (increase) in trade receivables, current | (69,681.00)
+ | Adjustments for decrease (increase) in trade receivables, non-current | 0.00
+ | Adjustments for decrease (increase) in other current assets | (36,366.80)
+ | Adjustments for decrease (increase) in other non-current assets | 0.00
+ | Adjustments for other financial assets, non-current | 0.00
+ | Adjustments for other financial assets, current | 3,758.70
+ | Adjustments for other bank balances | 0.00
+ | Adjustments for increase (decrease) in trade payables, current | 82,078.70
+ | Adjustments for increase (decrease) in trade payables, non-current | 0.00
+ | Adjustments for increase (decrease) in other current liabilities | 1,116.10
+ | Adjustments for increase (decrease) in other non-current liabilities | 0.00
+ | Adjustments for depreciation and amortisation expense | 77,135.10
+ | Adjustments for impairment loss reversal of impairment loss recognised in profit or loss | 0.00
+ | Adjustments for provisions, current | (49,809.30)
+ | Adjustments for provisions, non-current | 0.00
+ | Adjustments for other financial liabilities, current | (3,037.90)
+ | Adjustments for other financial liabilities, non-current | 0.00
+ | Adjustments for unrealised foreign exchange losses gains | (1,288.70)
+ | Adjustments for dividend income | 0.00
+ | Adjustments for interest income | 1,798.80
+ | Adjustments for share-based payments | 663.50
+ | Adjustments for fair value losses (gains) | 0.00
+ | Adjustments for undistributed profits of associates | 0.00
+ | Other adjustments for which cash effects are investing or financing cash flow | (152.70)
+ | Other adjustments to reconcile profit (loss) | 0.00
+ | Other adjustments for non-cash items | (386.20)
+ | Share of profit and loss from partnership firm or association of persons or limited liability partnerships | 0.00
+ | Total adjustments for reconcile profit (loss) | (39,845.60)
+ | Net cash flows from (used in) operations | 46,517.50
+ | Dividends received | 0.00
+ | Interest paid | 0.00
+ | Interest received | 0.00
+ | Income taxes paid (refund) | 20,098.00
+ | Other inflows (outflows) of cash | 0.00
+ | Net cash flows from (used in) operating activities | 26,419.50
+ | Cash flows from used in investing activities | 
+ | Cash flows from losing control of subsidiaries or other businesses | 0.00
+ | Cash flows used in obtaining control of subsidiaries or other businesses | 0.00
+ | Other cash receipts from sales of equity or debt instruments of other entities | 599.60
+ | Other cash payments to acquire equity or debt instruments of other entities | 0.00
+ | Other cash receipts from sales of interests in joint ventures | 0.00
+ | Other cash payments to acquire interests in joint ventures | 0.00
+ | Cash receipts from share of profits of partnership firm or association of persons or limited liability partnerships | 0.00
+ | Cash payment for investment in partnership firm or association of persons or limited liability partnerships | 0.00
+ | Proceeds from sales of property, plant and equipment | 42,820.90
+ | Purchase of property, plant and equipment | 1,87,843.10
+ | Proceeds from sales of investment property | 0.00
+ | Purchase of investment property | 0.00
+ | Proceeds from sales of intangible assets | 0.00
+ | Purchase of intangible assets | 0.00
+ | Proceeds from sales of intangible assets under development | 0.00
+ | Purchase of intangible assets under development | 0.00
+ | Proceeds from sales of goodwill | 0.00
+ | Purchase of goodwill | 0.00
+ | Proceeds from biological assets other than bearer plants | 0.00
+ | Purchase of biological assets other than bearer plants | 0.00
+ | Proceeds from government grants | 0.00
+ | Proceeds from sales of other long-term assets | 0.00
+ | Purchase of other long-term assets | 0.00
+ | Cash advances and loans made to other parties | 0.00
+ | Cash receipts from repayment of advances and loans made to other parties | 0.00
+ | Cash payments for future contracts, forward contracts, option contracts and swap contracts | 0.00
+ | Cash receipts from future contracts, forward contracts, option contracts and swap contracts | 0.00
+ | Dividends received | 0.00
+ | Interest received | 1,150.10
+ | Income taxes paid (refund) | 0.00
+ | Other inflows (outflows) of cash | 2.00
+ | Net cash flows from (used in) investing activities | (1,43,270.50)
+ | Cash flows from used in financing activities | 
+ | Proceeds from changes in ownership interests in subsidiaries | 0.00
+ | Payments from changes in ownership interests in subsidiaries | 0.00
+ | Proceeds from issuing shares | 0.00
+ | Proceeds from issuing other equity instruments | 0.00
+ | Payments to acquire or redeem entity's shares | 0.00
+ | Payments of other equity instruments | 0.00
+ | Proceeds from exercise of stock options | 0.00
+ | Proceeds from issuing debentures notes bonds etc | 0.00
+ | Proceeds from borrowings | 1,90,278.80
+ | Repayments of borrowings | 22,479.80
+ | Payments of lease liabilities | 20,703.00
+ | Dividends paid | 15,814.50
+ | Interest paid | 20,444.10
+ | Income taxes paid (refund) | 0.00
+ | Other inflows (outflows) of cash | 0.00
+ | Net cash flows from (used in) financing activities | 1,10,837.40
+ | Net increase (decrease) in cash and cash equivalents before effect of exchange rate changes | (6,013.60)
+ | Effect of exchange rate changes on cash and cash equivalents | 
+ | Effect of exchange rate changes on cash and cash equivalents | 0.00
+ | Net increase (decrease) in cash and cash equivalents | (6,013.60)
+ | Cash and cash equivalents cash flow statement at beginning of period | 1,03,235.10
+ | Cash and cash equivalents cash flow statement at end of period | 97,221.50

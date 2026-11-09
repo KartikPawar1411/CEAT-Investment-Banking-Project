@@ -1,0 +1,661 @@
+﻿Metric,Period,Archive / source ID,Page / table,Publication / evidence date,Reported unit,Reported / component value,Conversion / treatment,Model input (cr unless noted),Evidence status
+Revenue,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,936341.0,statement line; lakh ÷ 100,9363.41,Magnitude on cited page
+Revenue,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,1131488.0,statement line; lakh ÷ 100,11314.88,Magnitude on cited page
+Revenue,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,1194348.0,statement line; lakh ÷ 100,11943.48,Magnitude on cited page
+Revenue,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,1321787.0,statement line; lakh ÷ 100,13217.87,Magnitude on cited page
+Revenue,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,1567800.0,statement line; lakh ÷ 100,15678.0,Magnitude on cited page
+Revenue,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,4762.0,statement line; whole crore,4762.0,Magnitude on cited page
+Revenue,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,9080.0,statement line; whole crore,9080.0,Magnitude on cited page
+Revenue,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,7302.0,statement line; whole crore,7302.0,Magnitude on cited page
+Materials,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,618690.0,statement line; lakh ÷ 100,6186.9,Magnitude on cited page
+Materials,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,735074.0,statement line; lakh ÷ 100,7350.74,Magnitude on cited page
+Materials,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,692343.0,statement line; lakh ÷ 100,6923.43,Magnitude on cited page
+Materials,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,831883.0,statement line; lakh ÷ 100,8318.83,Magnitude on cited page
+Materials,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,950774.0,statement line; lakh ÷ 100,9507.74,Magnitude on cited page
+Materials,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,3234.0,statement line; whole crore,3234.0,Magnitude on cited page
+Materials,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,6212.0,statement line; whole crore,6212.0,Magnitude on cited page
+Materials,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,4558.0,statement line; whole crore,4558.0,Magnitude on cited page
+Purchases,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,2868.0,statement line; lakh ÷ 100,28.68,Magnitude on cited page
+Purchases,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,3029.0,statement line; lakh ÷ 100,30.29,Magnitude on cited page
+Purchases,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,3635.0,statement line; lakh ÷ 100,36.35,Magnitude on cited page
+Purchases,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,3301.0,statement line; lakh ÷ 100,33.01,Magnitude on cited page
+Purchases,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,5190.0,statement line; lakh ÷ 100,51.9,Magnitude on cited page
+Purchases,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,66.0,statement line; whole crore,66.0,Magnitude on cited page
+Purchases,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,122.0,statement line; whole crore,122.0,Magnitude on cited page
+Purchases,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,22.0,statement line; whole crore,22.0,Magnitude on cited page
+Inventory expense,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,-18799.0,statement line; lakh ÷ 100,-187.99,Magnitude on cited page
+Inventory expense,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,436.0,statement line; lakh ÷ 100,4.36,Magnitude on cited page
+Inventory expense,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,-3541.0,statement line; lakh ÷ 100,-35.41,Magnitude on cited page
+Inventory expense,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,-11973.0,statement line; lakh ÷ 100,-119.73,Magnitude on cited page
+Inventory expense,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,-5729.0,statement line; lakh ÷ 100,-57.29,Magnitude on cited page
+Inventory expense,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,-185.0,statement line; whole crore,-185.0,Magnitude on cited page
+Inventory expense,H1FY27,H1FY27.pdf,"PDF p16, H1 column (c)",2026-10-14,₹ crore,-365,signed expense; confirmed in rendered statement,-365.0,Visual tie to filing
+Inventory expense,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,-120.0,statement line; whole crore,-120.0,Magnitude on cited page
+Employee,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,69380.0,statement line; lakh ÷ 100,693.8,Magnitude on cited page
+Employee,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,73520.0,statement line; lakh ÷ 100,735.2,Magnitude on cited page
+Employee,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,84571.0,statement line; lakh ÷ 100,845.71,Magnitude on cited page
+Employee,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,85622.0,statement line; lakh ÷ 100,856.22,Magnitude on cited page
+Employee,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,107144.0,statement line; lakh ÷ 100,1071.44,Magnitude on cited page
+Employee,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,321.0,statement line; whole crore,321.0,Magnitude on cited page
+Employee,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,617.0,statement line; whole crore,617.0,Magnitude on cited page
+Employee,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,489.0,statement line; whole crore,489.0,Magnitude on cited page
+Other opex,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,193223.0,statement line; lakh ÷ 100,1932.23,Magnitude on cited page
+Other opex,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,222048.0,statement line; lakh ÷ 100,2220.48,Magnitude on cited page
+Other opex,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,252117.0,statement line; lakh ÷ 100,2521.17,Magnitude on cited page
+Other opex,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,265540.0,statement line; lakh ÷ 100,2655.4,Magnitude on cited page
+Other opex,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,305701.0,statement line; lakh ÷ 100,3057.01,Magnitude on cited page
+Other opex,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,869.0,statement line; whole crore,869.0,Magnitude on cited page
+Other opex,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,1672.0,statement line; whole crore,1672.0,Magnitude on cited page
+Other opex,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,1463.0,statement line; whole crore,1463.0,Magnitude on cited page
+DA,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,43520.0,statement line; lakh ÷ 100,435.2,Magnitude on cited page
+DA,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,46931.0,statement line; lakh ÷ 100,469.31,Magnitude on cited page
+DA,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,50883.0,statement line; lakh ÷ 100,508.83,Magnitude on cited page
+DA,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,56269.0,statement line; lakh ÷ 100,562.69,Magnitude on cited page
+DA,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,69742.0,statement line; lakh ÷ 100,697.42,Magnitude on cited page
+DA,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,193.0,statement line; whole crore,193.0,Magnitude on cited page
+DA,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,379.0,statement line; whole crore,379.0,Magnitude on cited page
+DA,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,325.0,statement line; whole crore,325.0,Magnitude on cited page
+Interest,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,20695.0,statement line; lakh ÷ 100,206.95,Magnitude on cited page
+Interest,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,24210.0,statement line; lakh ÷ 100,242.1,Magnitude on cited page
+Interest,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,26906.0,statement line; lakh ÷ 100,269.06,Magnitude on cited page
+Interest,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,27779.0,statement line; lakh ÷ 100,277.79,Magnitude on cited page
+Interest,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,35862.0,statement line; lakh ÷ 100,358.62,Magnitude on cited page
+Interest,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,87.0,statement line; whole crore,87.0,Magnitude on cited page
+Interest,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,233.0,statement line; whole crore,233.0,Magnitude on cited page
+Interest,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,169.0,statement line; whole crore,169.0,Magnitude on cited page
+Other income,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,1140.0,statement line; lakh ÷ 100,11.4,Magnitude on cited page
+Other income,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,1694.0,statement line; lakh ÷ 100,16.94,Magnitude on cited page
+Other income,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,1973.0,statement line; lakh ÷ 100,19.73,Magnitude on cited page
+Other income,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,1755.0,statement line; lakh ÷ 100,17.55,Magnitude on cited page
+Other income,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,4038.0,statement line; lakh ÷ 100,40.38,Magnitude on cited page
+Other income,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,5.0,statement line; whole crore,5.0,Magnitude on cited page
+Other income,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,11.0,statement line; whole crore,11.0,Magnitude on cited page
+Other income,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,9.0,statement line; whole crore,9.0,Magnitude on cited page
+JV,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,2875.0,statement line; lakh ÷ 100,28.75,Magnitude on cited page
+JV,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,822.0,statement line; lakh ÷ 100,8.22,Magnitude on cited page
+JV,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,2080.0,statement line; lakh ÷ 100,20.8,Magnitude on cited page
+JV,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,2180.0,statement line; lakh ÷ 100,21.8,Magnitude on cited page
+JV,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,1580.0,statement line; lakh ÷ 100,15.8,Magnitude on cited page
+JV,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,-5.0,statement line; whole crore,-5.0,Magnitude on cited page
+JV,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,0.0,statement line; whole crore,0.0,Magnitude on cited page
+JV,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,6.0,statement line; whole crore,6.0,Magnitude on cited page
+Exceptional,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,1291.0,statement line; lakh ÷ 100,12.91,Magnitude on cited page
+Exceptional,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,3342.0,statement line; lakh ÷ 100,33.42,Magnitude on cited page
+Exceptional,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,5817.0,statement line; lakh ÷ 100,58.17,Magnitude on cited page
+Exceptional,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,2961.0,statement line; lakh ÷ 100,29.61,Magnitude on cited page
+Exceptional,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,7123.0,statement line; lakh ÷ 100,71.23,Magnitude on cited page
+Exceptional,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,13.0,statement line; whole crore,13.0,Magnitude on cited page
+Exceptional,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,20.0,statement line; whole crore,20.0,Magnitude on cited page
+Exceptional,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,3.0,statement line; whole crore,3.0,Magnitude on cited page
+Tax,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,−1197 + 3627,current + deferred and prior-year taxes; lakh ÷ 100,24.3,Components verified
+Tax,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,186 + 6989,current + deferred and prior-year taxes; lakh ÷ 100,71.75,Components verified
+Tax,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,22142.0,current + deferred and prior-year taxes; lakh ÷ 100,221.42,Magnitude on cited page
+Tax,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,17203.0,current + deferred and prior-year taxes; lakh ÷ 100,172.03,Magnitude on cited page
+Tax,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,27887.0,current + deferred and prior-year taxes; lakh ÷ 100,278.87,Magnitude on cited page
+Tax,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,52.0,current + deferred and prior-year taxes; whole crore,52.0,Magnitude on cited page
+Tax,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,85.0,current + deferred and prior-year taxes; whole crore,85.0,Magnitude on cited page
+Tax,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,110.0,current + deferred and prior-year taxes; whole crore,110.0,Magnitude on cited page
+Group PAT,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,7058.0,statement line; lakh ÷ 100,70.58,Magnitude on cited page
+Group PAT,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,18239.0,statement line; lakh ÷ 100,182.39,Magnitude on cited page
+Group PAT,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,63528.0,statement line; lakh ÷ 100,635.28,Magnitude on cited page
+Group PAT,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,47137.0,statement line; lakh ÷ 100,471.37,Magnitude on cited page
+Group PAT,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,69724.0,statement line; lakh ÷ 100,697.24,Magnitude on cited page
+Group PAT,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,112.0,statement line; whole crore,112.0,Magnitude on cited page
+Group PAT,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,116.0,statement line; whole crore,116.0,Magnitude on cited page
+Group PAT,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,297.0,statement line; whole crore,297.0,Magnitude on cited page
+Parent PAT,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,7120.0,statement line; lakh ÷ 100,71.2,Magnitude on cited page
+Parent PAT,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,18617.0,statement line; lakh ÷ 100,186.17,Magnitude on cited page
+Parent PAT,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,64265.0,statement line; lakh ÷ 100,642.65,Magnitude on cited page
+Parent PAT,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,47264.0,statement line; lakh ÷ 100,472.64,Magnitude on cited page
+Parent PAT,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,69802.0,statement line; lakh ÷ 100,698.02,Magnitude on cited page
+Parent PAT,Q2FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,112.0,statement line; whole crore,112.0,Magnitude on cited page
+Parent PAT,H1FY27,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,116.0,statement line; whole crore,116.0,Magnitude on cited page
+Parent PAT,H1FY26,H1FY27.pdf,Consolidated statements PDF p16,2026-10-14,₹ crore,298.0,statement line; whole crore,298.0,Magnitude on cited page
+Assets,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,916034.0,statement line; lakh ÷ 100,9160.34,Magnitude on cited page
+Assets,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,962783.0,statement line; lakh ÷ 100,9627.83,Magnitude on cited page
+Assets,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,999450.0,statement line; lakh ÷ 100,9994.5,Magnitude on cited page
+Assets,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,1121239.0,statement line; lakh ÷ 100,11212.39,Magnitude on cited page
+Assets,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,1390224.0,statement line; lakh ÷ 100,13902.24,Magnitude on cited page
+Assets,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,15061.0,statement line; whole crore,15061.0,Magnitude on cited page
+Total equity,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,329635.0,statement line; lakh ÷ 100,3296.35,Magnitude on cited page
+Total equity,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,345703.0,statement line; lakh ÷ 100,3457.03,Magnitude on cited page
+Total equity,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,405235.0,statement line; lakh ÷ 100,4052.35,Magnitude on cited page
+Total equity,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,437626.0,statement line; lakh ÷ 100,4376.26,Magnitude on cited page
+Total equity,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,505403.0,statement line; lakh ÷ 100,5054.03,Magnitude on cited page
+Total equity,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,4969.0,statement line; whole crore,4969.0,Magnitude on cited page
+NCI,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,2354.0,statement line; lakh ÷ 100,23.54,Magnitude on cited page
+NCI,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,1739.0,statement line; lakh ÷ 100,17.39,Magnitude on cited page
+NCI,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,974.0,statement line; lakh ÷ 100,9.74,Magnitude on cited page
+NCI,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,773.0,statement line; lakh ÷ 100,7.73,Magnitude on cited page
+NCI,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,802.0,statement line; lakh ÷ 100,8.02,Magnitude on cited page
+NCI,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,8.0,statement line; whole crore,8.0,Magnitude on cited page
+Current assets incl held for sale,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,264168.0,total current assets plus assets held for sale; lakh ÷ 100,2641.68,Magnitude on cited page
+Current assets incl held for sale,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,268863.0,total current assets plus assets held for sale; lakh ÷ 100,2688.63,Magnitude on cited page
+Current assets incl held for sale,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,273875.0,total current assets plus assets held for sale; lakh ÷ 100,2738.75,Magnitude on cited page
+Current assets incl held for sale,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,343209.0,total current assets plus assets held for sale; lakh ÷ 100,3432.09,Magnitude on cited page
+Current assets incl held for sale,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,436143.0,total current assets plus assets held for sale; lakh ÷ 100,4361.43,Magnitude on cited page
+Current assets incl held for sale,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,5159.0,total current assets plus assets held for sale; whole crore,5159.0,Magnitude on cited page
+Current liabilities,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,366336.0,statement line; lakh ÷ 100,3663.36,Magnitude on cited page
+Current liabilities,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,414442.0,statement line; lakh ÷ 100,4144.42,Magnitude on cited page
+Current liabilities,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,433316.0,statement line; lakh ÷ 100,4333.16,Magnitude on cited page
+Current liabilities,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,516490.0,statement line; lakh ÷ 100,5164.9,Magnitude on cited page
+Current liabilities,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,641321.0,statement line; lakh ÷ 100,6413.21,Magnitude on cited page
+Current liabilities,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,7676.0,statement line; whole crore,7676.0,Magnitude on cited page
+Non-current liabilities,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,220063.0,statement line; lakh ÷ 100,2200.63,Magnitude on cited page
+Non-current liabilities,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,202638.0,statement line; lakh ÷ 100,2026.38,Magnitude on cited page
+Non-current liabilities,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,160899.0,statement line; lakh ÷ 100,1608.99,Magnitude on cited page
+Non-current liabilities,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,167123.0,statement line; lakh ÷ 100,1671.23,Magnitude on cited page
+Non-current liabilities,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,243500.0,statement line; lakh ÷ 100,2435.0,Magnitude on cited page
+Non-current liabilities,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,2416.0,statement line; whole crore,2416.0,Magnitude on cited page
+Inventory,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,130956.0,statement line; lakh ÷ 100,1309.56,Magnitude on cited page
+Inventory,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,113778.0,statement line; lakh ÷ 100,1137.78,Magnitude on cited page
+Inventory,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,115049.0,statement line; lakh ÷ 100,1150.49,Magnitude on cited page
+Inventory,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,141153.0,statement line; lakh ÷ 100,1411.53,Magnitude on cited page
+Inventory,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,178337.0,statement line; lakh ÷ 100,1783.37,Magnitude on cited page
+Inventory,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,2597.0,statement line; whole crore,2597.0,Magnitude on cited page
+Receivables,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,115432.0,statement line; lakh ÷ 100,1154.32,Magnitude on cited page
+Receivables,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,130703.0,statement line; lakh ÷ 100,1307.03,Magnitude on cited page
+Receivables,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,128322.0,statement line; lakh ÷ 100,1283.22,Magnitude on cited page
+Receivables,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,165331.0,statement line; lakh ÷ 100,1653.31,Magnitude on cited page
+Receivables,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,183890.0,statement line; lakh ÷ 100,1838.9,Magnitude on cited page
+Receivables,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,1964.0,statement line; whole crore,1964.0,Magnitude on cited page
+Payables MSME,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,8044.0,statement line; lakh ÷ 100,80.44,Magnitude on cited page
+Payables MSME,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,8128.0,statement line; lakh ÷ 100,81.28,Magnitude on cited page
+Payables MSME,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,9852.0,statement line; lakh ÷ 100,98.52,Magnitude on cited page
+Payables MSME,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,8630.0,statement line; lakh ÷ 100,86.3,Magnitude on cited page
+Payables MSME,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,13184.0,statement line; lakh ÷ 100,131.84,Magnitude on cited page
+Payables MSME,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,87.0,statement line; whole crore,87.0,Magnitude on cited page
+Payables others,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,207714.0,statement line; lakh ÷ 100,2077.14,Magnitude on cited page
+Payables others,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,218705.0,statement line; lakh ÷ 100,2187.05,Magnitude on cited page
+Payables others,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,223359.0,statement line; lakh ÷ 100,2233.59,Magnitude on cited page
+Payables others,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,265389.0,statement line; lakh ÷ 100,2653.89,Magnitude on cited page
+Payables others,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,331598.0,statement line; lakh ÷ 100,3315.98,Magnitude on cited page
+Payables others,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,3800.0,statement line; whole crore,3800.0,Magnitude on cited page
+Cash,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,2377.0,statement line; lakh ÷ 100,23.77,Magnitude on cited page
+Cash,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,6062.0,statement line; lakh ÷ 100,60.62,Magnitude on cited page
+Cash,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,5516.0,statement line; lakh ÷ 100,55.16,Magnitude on cited page
+Cash,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,4794.0,statement line; lakh ÷ 100,47.94,Magnitude on cited page
+Cash,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,3953.0,statement line; lakh ÷ 100,39.53,Magnitude on cited page
+Cash,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,32.0,statement line; whole crore,32.0,Magnitude on cited page
+LT borrowings,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,171916.0,statement line; lakh ÷ 100,1719.16,Magnitude on cited page
+LT borrowings,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,144056.0,statement line; lakh ÷ 100,1440.56,Magnitude on cited page
+LT borrowings,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,95660.0,statement line; lakh ÷ 100,956.6,Magnitude on cited page
+LT borrowings,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,92356.0,statement line; lakh ÷ 100,923.56,Magnitude on cited page
+LT borrowings,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,150367.0,statement line; lakh ÷ 100,1503.67,Magnitude on cited page
+LT borrowings,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,1479.0,statement line; whole crore,1479.0,Magnitude on cited page
+ST borrowings,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,37762.0,statement line; lakh ÷ 100,377.62,Magnitude on cited page
+ST borrowings,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,65214.0,statement line; lakh ÷ 100,652.14,Magnitude on cited page
+ST borrowings,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,67230.0,statement line; lakh ÷ 100,672.3,Magnitude on cited page
+ST borrowings,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,100479.0,statement line; lakh ÷ 100,1004.79,Magnitude on cited page
+ST borrowings,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,150712.0,statement line; lakh ÷ 100,1507.12,Magnitude on cited page
+ST borrowings,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,2367.0,statement line; whole crore,2367.0,Magnitude on cited page
+LT lease,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,8047.0,statement line; lakh ÷ 100,80.47,Magnitude on cited page
+LT lease,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,13055.0,statement line; lakh ÷ 100,130.55,Magnitude on cited page
+LT lease,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,10170.0,statement line; lakh ÷ 100,101.7,Magnitude on cited page
+LT lease,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,13491.0,statement line; lakh ÷ 100,134.91,Magnitude on cited page
+LT lease,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,15834.0,statement line; lakh ÷ 100,158.34,Magnitude on cited page
+LT lease,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,119.0,statement line; whole crore,119.0,Magnitude on cited page
+ST lease,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,5162.0,statement line; lakh ÷ 100,51.62,Magnitude on cited page
+ST lease,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,7222.0,statement line; lakh ÷ 100,72.22,Magnitude on cited page
+ST lease,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,6090.0,statement line; lakh ÷ 100,60.9,Magnitude on cited page
+ST lease,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,7312.0,statement line; lakh ÷ 100,73.12,Magnitude on cited page
+ST lease,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,10296.0,statement line; lakh ÷ 100,102.96,Magnitude on cited page
+ST lease,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,100.0,statement line; whole crore,100.0,Magnitude on cited page
+PPE,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,501651.0,statement line; lakh ÷ 100,5016.51,Magnitude on cited page
+PPE,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,571627.0,statement line; lakh ÷ 100,5716.27,Magnitude on cited page
+PPE,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,592681.0,statement line; lakh ÷ 100,5926.81,Magnitude on cited page
+PPE,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,656916.0,statement line; lakh ÷ 100,6569.16,Magnitude on cited page
+PPE,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,763058.0,statement line; lakh ÷ 100,7630.58,Magnitude on cited page
+PPE,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,7779.0,statement line; whole crore,7779.0,Magnitude on cited page
+JV assets,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,16594.0,statement line; lakh ÷ 100,165.94,Magnitude on cited page
+JV assets,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,15290.0,statement line; lakh ÷ 100,152.9,Magnitude on cited page
+JV assets,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,16576.0,statement line; lakh ÷ 100,165.76,Magnitude on cited page
+JV assets,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,17329.0,statement line; lakh ÷ 100,173.29,Magnitude on cited page
+JV assets,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,17296.0,statement line; lakh ÷ 100,172.96,Magnitude on cited page
+JV assets,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,146.0,statement line; whole crore,146.0,Magnitude on cited page
+Investments,FY22,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,1321.0,statement line; lakh ÷ 100,13.21,Magnitude on cited page
+Investments,FY23,AR23.pdf,Consolidated statements PDF p126,2023 (exact dispatch day unverified),₹ lakh,1667.0,statement line; lakh ÷ 100,16.67,Magnitude on cited page
+Investments,FY24,AR24.pdf,Consolidated statements PDF p122,2024 (exact dispatch day unverified),₹ lakh,1633.0,statement line; lakh ÷ 100,16.33,Magnitude on cited page
+Investments,FY25,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,1655.0,statement line; lakh ÷ 100,16.55,Magnitude on cited page
+Investments,FY26,AR26.pdf,Consolidated statements PDF p138,2026-07-23,₹ lakh,4885.0,statement line; lakh ÷ 100,48.85,Magnitude on cited page
+Investments,H1FY27,H1FY27.pdf,Consolidated statements PDF p17,2026-10-14,₹ crore,49.0,statement line; whole crore,49.0,Magnitude on cited page
+CFO,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,61889.0,statement line; lakh ÷ 100,618.89,Magnitude on cited page
+CFO,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,120549.0,statement line; lakh ÷ 100,1205.49,Magnitude on cited page
+CFO,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,171926.0,statement line; lakh ÷ 100,1719.26,Magnitude on cited page
+CFO,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,109196.0,statement line; lakh ÷ 100,1091.96,Magnitude on cited page
+CFO,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,178555.0,statement line; lakh ÷ 100,1785.55,Magnitude on cited page
+CFO,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,338.0,statement line; whole crore,338.0,Magnitude on cited page
+CFO,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,874.0,statement line; whole crore,874.0,Magnitude on cited page
+Capex,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,-95867.0,statement line; lakh ÷ 100; outflow magnitude,958.67,Magnitude on cited page
+Capex,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,-87913.0,statement line; lakh ÷ 100; outflow magnitude,879.13,Magnitude on cited page
+Capex,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,-86731.0,statement line; lakh ÷ 100; outflow magnitude,867.31,Magnitude on cited page
+Capex,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,-94336.0,statement line; lakh ÷ 100; outflow magnitude,943.36,Magnitude on cited page
+Capex,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,-114654.0,statement line; lakh ÷ 100; outflow magnitude,1146.54,Magnitude on cited page
+Capex,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,-802.0,statement line; whole crore; outflow magnitude,802.0,Magnitude on cited page
+Capex,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,-418.0,statement line; whole crore; outflow magnitude,418.0,Magnitude on cited page
+CFI,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,-94437.0,statement line; lakh ÷ 100,-944.37,Magnitude on cited page
+CFI,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,-84911.0,statement line; lakh ÷ 100,-849.11,Magnitude on cited page
+CFI,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,-85370.0,statement line; lakh ÷ 100,-853.7,Magnitude on cited page
+CFI,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,-92244.0,statement line; lakh ÷ 100,-922.44,Magnitude on cited page
+CFI,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,-227060.0,statement line; lakh ÷ 100,-2270.6,Magnitude on cited page
+CFI,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,-781.0,statement line; whole crore,-781.0,Magnitude on cited page
+CFI,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,-1513.0,statement line; whole crore,-1513.0,Magnitude on cited page
+CFF,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,31316.0,statement line; lakh ÷ 100,313.16,Magnitude on cited page
+CFF,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,-31953.0,statement line; lakh ÷ 100,-319.53,Magnitude on cited page
+CFF,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,-87102.0,statement line; lakh ÷ 100,-871.02,Magnitude on cited page
+CFF,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,-17674.0,statement line; lakh ÷ 100,-176.74,Magnitude on cited page
+CFF,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,47664.0,statement line; lakh ÷ 100,476.64,Magnitude on cited page
+CFF,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,435.0,statement line; whole crore,435.0,Magnitude on cited page
+CFF,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,667.0,statement line; whole crore,667.0,Magnitude on cited page
+Cash interest,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,-19437.0,interest paid per consolidated financing cash flows; lakh ÷ 100; outflow magnitude,194.37,Magnitude on cited page
+Cash interest,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,-20925.0,interest paid per consolidated financing cash flows; lakh ÷ 100; outflow magnitude,209.25,Magnitude on cited page
+Cash interest,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,-26686.0,interest paid per consolidated financing cash flows; lakh ÷ 100; outflow magnitude,266.86,Magnitude on cited page
+Cash interest,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,-24463.0,interest paid per consolidated financing cash flows; lakh ÷ 100; outflow magnitude,244.63,Magnitude on cited page
+Cash interest,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,-31114.0,interest paid per consolidated financing cash flows; lakh ÷ 100; outflow magnitude,311.14,Magnitude on cited page
+Cash interest,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,-178.0,interest paid per consolidated financing cash flows; whole crore; outflow magnitude,178.0,Magnitude on cited page
+Cash interest,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,-140.0,interest paid per consolidated financing cash flows; whole crore; outflow magnitude,140.0,Magnitude on cited page
+Lease cash,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,-9710.0,lease liability cash payments per financing cash flows; lakh ÷ 100; outflow magnitude,97.1,Magnitude on cited page
+Lease cash,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,-9357.0,lease liability cash payments per financing cash flows; lakh ÷ 100; outflow magnitude,93.57,Magnitude on cited page
+Lease cash,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,-9181.0,lease liability cash payments per financing cash flows; lakh ÷ 100; outflow magnitude,91.81,Magnitude on cited page
+Lease cash,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,-11020.0,lease liability cash payments per financing cash flows; lakh ÷ 100; outflow magnitude,110.2,Magnitude on cited page
+Lease cash,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,-13390.0,lease liability cash payments per financing cash flows; lakh ÷ 100; outflow magnitude,133.9,Magnitude on cited page
+Lease cash,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,-71.0,lease liability cash payments per financing cash flows; whole crore; outflow magnitude,71.0,Magnitude on cited page
+Lease cash,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,-63.0,lease liability cash payments per financing cash flows; whole crore; outflow magnitude,63.0,Magnitude on cited page
+Net debt raised,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,21852 + 51622 − 5551,"proceeds less principal repayments, incl short-term net movement; lakh ÷ 100",679.23,Components verified
+Net debt raised,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,745 + 15487 − 16640,"proceeds less principal repayments, incl short-term net movement; lakh ÷ 100",-4.08,Components verified
+Net debt raised,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,9142 + 0 − 55523,"proceeds less principal repayments, incl short-term net movement; lakh ÷ 100",-463.81,Components verified
+Net debt raised,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,28247 + 35000 − 33302,"proceeds less principal repayments, incl short-term net movement; lakh ÷ 100",299.45,Components verified
+Net debt raised,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,41644 + 105000 − 38398,"proceeds less principal repayments, incl short-term net movement; lakh ÷ 100",1082.46,Components verified
+Net debt raised,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,941 + 198 − 303,"proceeds less principal repayments, incl short-term net movement; whole crore",836.0,Components verified
+Net debt raised,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,393 + 800 − 178,"proceeds less principal repayments, incl short-term net movement; whole crore",1015.0,Components verified
+WC cash impact,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,63887 − 71248,cash generated pre-tax less operating profit before working capital changes; lakh ÷ 100,-73.61,Components verified
+WC cash impact,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,116781 − 94675,cash generated pre-tax less operating profit before working capital changes; lakh ÷ 100,221.06,Components verified
+WC cash impact,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,188222 − 161478,cash generated pre-tax less operating profit before working capital changes; lakh ÷ 100,267.44,Components verified
+WC cash impact,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,118274 − 147367,cash generated pre-tax less operating profit before working capital changes; lakh ÷ 100,-290.93,Components verified
+WC cash impact,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,196575 − 202690,cash generated pre-tax less operating profit before working capital changes; lakh ÷ 100,-61.15,Components verified
+WC cash impact,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,367 − 832,cash generated pre-tax less operating profit before working capital changes; whole crore,-465.0,Components verified
+WC cash impact,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,933 − 888,cash generated pre-tax less operating profit before working capital changes; whole crore,45.0,Components verified
+Opening cash,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,3609.0,statement line; lakh ÷ 100,36.09,Magnitude on cited page
+Opening cash,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,2377.0,statement line; lakh ÷ 100,23.77,Magnitude on cited page
+Opening cash,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,6062.0,statement line; lakh ÷ 100,60.62,Magnitude on cited page
+Opening cash,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,5516.0,statement line; lakh ÷ 100,55.16,Magnitude on cited page
+Opening cash,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,4794.0,statement line; lakh ÷ 100,47.94,Magnitude on cited page
+Opening cash,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,40.0,statement line; whole crore,40.0,Magnitude on cited page
+Opening cash,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,48.0,statement line; whole crore,48.0,Magnitude on cited page
+Closing cash,FY22,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,2377.0,statement line; lakh ÷ 100,23.77,Magnitude on cited page
+Closing cash,FY23,AR23.pdf,Consolidated statements PDF p127,2023 (exact dispatch day unverified),₹ lakh,6062.0,statement line; lakh ÷ 100,60.62,Magnitude on cited page
+Closing cash,FY24,AR24.pdf,Consolidated statements PDF p123,2024 (exact dispatch day unverified),₹ lakh,5516.0,statement line; lakh ÷ 100,55.16,Magnitude on cited page
+Closing cash,FY25,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,4794.0,statement line; lakh ÷ 100,47.94,Magnitude on cited page
+Closing cash,FY26,AR26.pdf,Consolidated statements PDF p139,2026-07-23,₹ lakh,3953.0,statement line; lakh ÷ 100,39.53,Magnitude on cited page
+Closing cash,H1FY27,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,32.0,statement line; whole crore,32.0,Magnitude on cited page
+Closing cash,H1FY26,H1FY27.pdf,Consolidated statements PDF p18,2026-10-14,₹ crore,76.0,statement line; whole crore,76.0,Magnitude on cited page
+MRF revenue,FY26,MRF26.html,"Consolidated results, revenue",2026-05-07,₹ lakh,3114901.0,divide by 100,31149.01,Issuer statement
+MRF pbt_before_exceptional,FY26,MRF26.html,"Consolidated results, pbt_before_exceptional",2026-05-07,₹ lakh,328538.0,divide by 100,3285.38,Issuer statement
+MRF other_income,FY26,MRF26.html,"Consolidated results, other_income",2026-05-07,₹ lakh,50463.0,divide by 100,504.63,Issuer statement
+MRF interest,FY26,MRF26.html,"Consolidated results, interest",2026-05-07,₹ lakh,36620.0,divide by 100,366.2,Issuer statement
+MRF da,FY26,MRF26.html,"Consolidated results, da",2026-05-07,₹ lakh,175363.0,divide by 100,1753.63,Issuer statement
+MRF parent_pat,FY26,MRFAR.pdf,p147 group 2426.10 less NCI 0.01; p149 parent,July 2026,₹ crore,2426.09,as presented,2426.09,Issuer statement
+APOLLOTYRE revenue,FY26,APOLLO26.html,"Consolidated results, revenue",2026-05-14,₹ lakh,2847060.0,divide by 100,28470.6,Issuer statement
+APOLLOTYRE pbt_before_exceptional,FY26,APOLLO26.html,"Consolidated results, pbt_before_exceptional",2026-05-14,₹ lakh,234212.5,divide by 100,2342.125,Issuer statement
+APOLLOTYRE other_income,FY26,APOLLO26.html,"Consolidated results, other_income",2026-05-14,₹ lakh,13340.5,divide by 100,133.405,Issuer statement
+APOLLOTYRE interest,FY26,APOLLO26.html,"Consolidated results, interest",2026-05-14,₹ lakh,39149.8,divide by 100,391.498,Issuer statement
+APOLLOTYRE da,FY26,APOLLO26.html,"Consolidated results, da",2026-05-14,₹ lakh,154301.5,divide by 100,1543.015,Issuer statement
+APOLLOTYRE parent_pat,FY26,APOLLO26.html,"Consolidated results, parent_pat",2026-05-14,₹ lakh,137241.6,divide by 100,1372.416,Issuer statement
+JKTYRE revenue,FY26,JK26.html,"Consolidated results, revenue",2026-05-26,₹ lakh,1632665.0,divide by 100,16326.65,Issuer statement
+JKTYRE pbt_before_exceptional,FY26,JK26.html,"Consolidated results, pbt_before_exceptional",2026-05-26,₹ lakh,118833.0,divide by 100,1188.33,Issuer statement
+JKTYRE other_income,FY26,JK26.html,"Consolidated results, other_income",2026-05-26,₹ lakh,5763.0,divide by 100,57.63,Issuer statement
+JKTYRE interest,FY26,JK26.html,"Consolidated results, interest",2026-05-26,₹ lakh,42847.0,divide by 100,428.47,Issuer statement
+JKTYRE da,FY26,JK26.html,"Consolidated results, da",2026-05-26,₹ lakh,47220.0,divide by 100,472.2,Issuer statement
+JKTYRE parent_pat,FY26,JK26.html,"Consolidated results, parent_pat",2026-05-26,₹ lakh,77609.0,divide by 100,776.09,Issuer statement
+APOLLOTYRE revenue,H1FY26,APOLLOH126.html,"Consolidated results, revenue",2025-11-13,₹ lakh,1339184.9,divide by 100,13391.849,Issuer statement
+APOLLOTYRE pbt_before_exceptional,H1FY26,APOLLOH126.html,"Consolidated results, pbt_before_exceptional",2025-11-13,₹ lakh,97453.6,divide by 100,974.536,Issuer statement
+APOLLOTYRE other_income,H1FY26,APOLLOH126.html,"Consolidated results, other_income",2025-11-13,₹ lakh,4863.3,divide by 100,48.633,Issuer statement
+APOLLOTYRE interest,H1FY26,APOLLOH126.html,"Consolidated results, interest",2025-11-13,₹ lakh,20163.2,divide by 100,201.632,Issuer statement
+APOLLOTYRE da,H1FY26,APOLLOH126.html,"Consolidated results, da",2025-11-13,₹ lakh,76095.5,divide by 100,760.955,Issuer statement
+APOLLOTYRE parent_pat,H1FY26,APOLLOH126.html,"Consolidated results, parent_pat",2025-11-13,₹ lakh,27092.5,divide by 100,270.925,Issuer statement
+APOLLOTYRE revenue,H1FY27,APOLLOH127.html,"Consolidated results, revenue",2026-11-04,₹ lakh,1536594.0,divide by 100,15365.94,Issuer statement
+APOLLOTYRE pbt_before_exceptional,H1FY27,APOLLOH127.html,"Consolidated results, pbt_before_exceptional",2026-11-04,₹ lakh,86694.8,divide by 100,866.948,Issuer statement
+APOLLOTYRE other_income,H1FY27,APOLLOH127.html,"Consolidated results, other_income",2026-11-04,₹ lakh,10068.9,divide by 100,100.689,Issuer statement
+APOLLOTYRE interest,H1FY27,APOLLOH127.html,"Consolidated results, interest",2026-11-04,₹ lakh,18570.9,divide by 100,185.709,Issuer statement
+APOLLOTYRE da,H1FY27,APOLLOH127.html,"Consolidated results, da",2026-11-04,₹ lakh,77135.1,divide by 100,771.351,Issuer statement
+APOLLOTYRE parent_pat,H1FY27,APOLLOH127.html,"Consolidated results, parent_pat",2026-11-04,₹ lakh,64115.9,divide by 100,641.159,Issuer statement
+JKTYRE revenue,H1FY26,JKH1report.pdf,p4 restated H1 comparative,2026-10-23,₹ crore,7880.25,as presented,7880.25,Issuer statement
+JKTYRE pbt_before_exceptional,H1FY26,JKH1report.pdf,p4 restated H1 comparative,2026-10-23,₹ crore,507.05,as presented,507.05,Issuer statement
+JKTYRE other_income,H1FY26,JKH1report.pdf,p4 restated H1 comparative,2026-10-23,₹ crore,35.93,as presented,35.93,Issuer statement
+JKTYRE interest,H1FY26,JKH1report.pdf,p4 restated H1 comparative,2026-10-23,₹ crore,222.33,as presented,222.33,Issuer statement
+JKTYRE da,H1FY26,JKH1report.pdf,p4 restated H1 comparative,2026-10-23,₹ crore,230.06,as presented,230.06,Issuer statement
+JKTYRE parent_pat,H1FY26,JKH1report.pdf,p4 restated H1 comparative,2026-10-23,₹ crore,390.35,as presented,390.35,Issuer statement
+JKTYRE revenue,H1FY27,JKH127.html,"Consolidated results, revenue",2026-10-23,₹ lakh,878697.0,divide by 100,8786.97,Issuer statement
+JKTYRE pbt_before_exceptional,H1FY27,JKH127.html,"Consolidated results, pbt_before_exceptional",2026-10-23,₹ lakh,14879.0,divide by 100,148.79,Issuer statement
+JKTYRE other_income,H1FY27,JKH127.html,"Consolidated results, other_income",2026-10-23,₹ lakh,1865.0,divide by 100,18.65,Issuer statement
+JKTYRE interest,H1FY27,JKH127.html,"Consolidated results, interest",2026-10-23,₹ lakh,20823.0,divide by 100,208.23,Issuer statement
+JKTYRE da,H1FY27,JKH127.html,"Consolidated results, da",2026-10-23,₹ lakh,25376.0,divide by 100,253.76,Issuer statement
+JKTYRE parent_pat,H1FY27,JKH127.html,"Consolidated results, parent_pat",2026-10-23,₹ lakh,10915.0,divide by 100,109.15,Issuer statement
+MRF revenue,Q1FY26,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,7675.64,as presented,7675.64,Issuer statement
+MRF pbt_before_exceptional,Q1FY26,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,671.83,as presented,671.83,Issuer statement
+MRF other_income,Q1FY26,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,128.59,as presented,128.59,Issuer statement
+MRF interest,Q1FY26,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,98.41,as presented,98.41,Issuer statement
+MRF da,Q1FY26,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,428.78,as presented,428.78,Issuer statement
+MRF parent_pat,Q1FY26,MRFAR.pdf,p147 group 2426.10 less NCI 0.01; p149 parent,July 2026,₹ crore,501.82,as presented,501.82,Issuer statement
+MRF revenue,Q1FY27,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,8415.5,as presented,8415.5,Issuer statement
+MRF pbt_before_exceptional,Q1FY27,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,649.69,as presented,649.69,Issuer statement
+MRF other_income,Q1FY27,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,195.06,as presented,195.06,Issuer statement
+MRF interest,Q1FY27,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,88.33,as presented,88.33,Issuer statement
+MRF da,Q1FY27,MRFJune.pdf,p8 June quarter and comparator,2026-08-11,₹ crore,447.67,as presented,447.67,Issuer statement
+MRF parent_pat,Q1FY27,MRFAR.pdf,p147 group 2426.10 less NCI 0.01; p149 parent,July 2026,₹ crore,495.35,as presented,495.35,Issuer statement
+MRF borrowings,2026-03-31,MRFAR.pdf,p146 borrowings,July 2026,₹ crore,176.02 + 2191.03,add components where shown; use stated amount,2367.05,Source bridge
+MRF leases,2026-03-31,MRFAR.pdf,p146 lease liabilities,July 2026,₹ crore,719.26 + 120.35,add components where shown; use stated amount,839.61,Source bridge
+MRF cash,2026-03-31,MRFAR.pdf,p146 cash,July 2026,₹ crore,304.59,add components where shown; use stated amount,304.59,Source bridge
+MRF nci,2026-03-31,MRFAR.pdf,p146 noncontrolling interest,July 2026,₹ crore,0.19,add components where shown; use stated amount,0.19,Source bridge
+MRF investments,2026-03-31,MRFAR.pdf,p146 financial investments,July 2026,₹ crore,340.96 + 3056.85,add components where shown; use stated amount,3397.81,Source bridge
+MRF eligible_deposits,2026-03-31,MRFAR.pdf,p174 note 10 eligible deposits,July 2026,₹ crore,1867.02,add components where shown; use stated amount,1867.02,Eligibility assumption
+MRF shares,2026-03-31,MRFAR.pdf,p148 share capital,July 2026,shares,4241143,add components where shown; use stated amount,4241143.0,Source bridge
+MRF prior_revenue,FY25,MRFAR.pdf,p147 previous-year operations revenue,July 2026,₹ crore,28153,add components where shown; use stated amount,28153.0,Source bridge
+APOLLOTYRE borrowings,2026-09-30,APOLLOH127.html,Consolidated debt: current and non-current,2026-11-04,₹ lakh,164270.60 + 267332.70,÷100 after aggregation,4316.033,Source bridge
+APOLLOTYRE leases,2026-09-30,APOLLOH127.html,Other financial liabilities: lease sub-lines,2026-11-04,₹ lakh,86387.10 + 33316.10,÷100 after aggregation,1197.032,Source bridge
+APOLLOTYRE cash,2026-09-30,APOLLOH127.html,Cash and equivalents on balance sheet,2026-11-04,₹ lakh,97331.9,÷100 after aggregation,973.319,Source bridge
+APOLLOTYRE nci,2026-09-30,APOLLOH127.html,Consolidated equity attribution,2026-11-04,₹ lakh,blank; nil assumed,÷100 after aggregation,0.0,Source bridge
+APOLLOTYRE investments,2026-09-30,APOLLOH127.html,"Equity-method, noncurrent and current investments",2026-11-04,₹ lakh,684.30 + 4994.40 + 0,÷100 after aggregation,56.787,Source bridge
+APOLLOTYRE eligible_deposits,2026-09-30,APOLLOH127.html,Other bank balances excluded,2026-11-04,₹ lakh,1455.20 excluded,÷100 after aggregation,0.0,Eligibility assumption
+APOLLOTYRE shares,2026-09-30,ApolloSH.pdf,"Table I, issued equity shares",2026-10-21,shares,635100946,add components where shown; use stated amount,635100946.0,Source bridge
+APOLLOTYRE prior_revenue,FY25,APFY source register URL,"FY26 announcement, FY25 consolidated comparator",2026-05-14,₹ crore,26123,add components where shown; use stated amount,26123.0,Source bridge
+JKTYRE borrowings,2026-09-30,JKH1report.pdf,p6 borrowings,2026-10-23,₹ crore,2661.51 + 3325.28,add components where shown; use stated amount,5986.79,Source bridge
+JKTYRE leases,2026-09-30,JKH1report.pdf,p6 lease liabilities,2026-10-23,₹ crore,101.15 + 36.70,add components where shown; use stated amount,137.85,Source bridge
+JKTYRE cash,2026-09-30,JKH1report.pdf,p6 cash and equivalents,2026-10-23,₹ crore,156.91,add components where shown; use stated amount,156.91,Source bridge
+JKTYRE nci,2026-09-30,JKH1report.pdf,p6 noncontrolling interest,2026-10-23,₹ crore,-0.66,add components where shown; use stated amount,-0.66,Source bridge
+JKTYRE investments,2026-09-30,JKH127.html,"Equity-method, noncurrent and current investments",2026-10-23,₹ lakh,7880 + 2935 + 1104,÷100 after aggregation,119.19,Source bridge
+JKTYRE eligible_deposits,2026-09-30,JKH1report.pdf,p6 other bank balances excluded,2026-10-23,₹ crore,134.21 excluded,add components where shown; use stated amount,0.0,Eligibility assumption
+JKTYRE shares,2026-09-30,JKSH.pdf,"Table I, issued equity shares",2026-10-21 (document date),shares,288289511,add components where shown; use stated amount,288289511.0,Source bridge
+JKTYRE prior_revenue,FY25,JKFYreport.pdf,p7 restated consolidated comparator,2026-05-26,₹ crore,14692.92,add components where shown; use stated amount,14692.92,Source bridge
+FY26 CAMSO product revenue,FY26,AR26.pdf,PDF p176,2026-07-23,₹ lakh,42065,÷100; 7 months acquired product revenue,420.65,Reported line / guidance
+"Capital contracts remaining, net of advances",FY26,AR26.pdf,PDF p169,2026-07-23,₹ lakh,178512,÷100; March snapshot only,1785.12,Reported line / guidance
+FY27 standalone capex,H1 FY27,H1transcript.pdf,PDF p13,2026-10-15 (call date),₹ crore,1400,management outlook,1400,Reported line / guidance
+CAMSO upstream budget,H1 FY27,H1transcript.pdf,PDF p13,2026-10-15 (call date),₹ crore,100–150,midpoint,125,Reported line / guidance
+"Trademark, future payment",H1 FY27,H1FY27.pdf,PDF p20,2026-10-14,USD m,44,× assumed FX ÷ 10; Q2 FY29 per call,44,Reported line / guidance
+Acquisition inventory commitment,H1 FY27,H1FY27.pdf,PDF p20,2026-10-14,USD m,approx 44,turnover modeled in inventory days; pending balance unknown,44,Reported line / guidance
+Series 4 NCD principal,FY26,AR26.pdf,PDF p157,2026-07-23,₹ lakh,25000,÷100; Dec 2030 maturity,250,Reported line / guidance
+FY26 acquisition cash outflow,FY26,AR26.pdf,PDF p139,2026-07-23,₹ lakh,112046,÷100; excluded from regular cash capex,1120.46,Reported line / guidance
+MRF FY26 assets,FY26,MRF26.html,"Consolidated balance sheet, Total assets",2026-05-07,₹ lakh,3195351,÷100; denominator for EBIT / closing assets,31953.51,Issuer statement
+Apollo FY26 assets,FY26,APOLLO26.html,"Consolidated balance sheet, Total assets",2026-05-14,₹ lakh,2923971.7,÷100; denominator for EBIT / closing assets,29239.717,Issuer statement
+JK Tyre FY26 assets,FY26,JK26.html,"Consolidated balance sheet, Total assets",2026-05-26,₹ lakh,1599586,÷100; denominator for EBIT / closing assets,15995.86,Issuer statement
+Kotak principal due within 1 year,31 Mar 2026,AR26.pdf,"PDF p157 note 20, current maturities",2026-07-23,₹ lakh,4797,÷100; half assumed paid by Sep. Balance table takes priority over gross footnote.,47.97,Issuer statement
+Kotak total amortized cost,31 Mar 2026,AR26.pdf,"PDF pp157–158 note 20, current + noncurrent",2026-07-23,₹ lakh,13192,÷100; balance after current portion allocated by surviving maturity weights,131.92,"Carrying value, not gross face"
+BoB I principal due within 1 year,31 Mar 2026,AR26.pdf,"PDF p157 note 20, current maturities",2026-07-23,₹ lakh,13973,÷100; half assumed paid by Sep. Balance table takes priority over gross footnote.,139.73,Issuer statement
+BoB I total amortized cost,31 Mar 2026,AR26.pdf,"PDF pp157–158 note 20, current + noncurrent",2026-07-23,₹ lakh,32156,÷100; balance after current portion allocated by surviving maturity weights,321.56,"Carrying value, not gross face"
+BoB II principal due within 1 year,31 Mar 2026,AR26.pdf,"PDF p157 note 20, current maturities",2026-07-23,₹ lakh,6000,÷100; half assumed paid by Sep. Balance table takes priority over gross footnote.,60.0,Issuer statement
+BoB II total amortized cost,31 Mar 2026,AR26.pdf,"PDF pp157–158 note 20, current + noncurrent",2026-07-23,₹ lakh,32000,÷100; balance after current portion allocated by surviving maturity weights,320.0,"Carrying value, not gross face"
+SBI principal due within 1 year,31 Mar 2026,AR26.pdf,"PDF p157 note 20, current maturities",2026-07-23,₹ lakh,4211,÷100; half assumed paid by Sep. Balance table takes priority over gross footnote.,42.11,Issuer statement
+SBI total amortized cost,31 Mar 2026,AR26.pdf,"PDF pp157–158 note 20, current + noncurrent",2026-07-23,₹ lakh,40000,÷100; balance after current portion allocated by surviving maturity weights,400.0,"Carrying value, not gross face"
+Axis principal due within 1 year,31 Mar 2026,AR26.pdf,"PDF p157 note 20, current maturities",2026-07-23,₹ lakh,3000,÷100; half assumed paid by Sep. Balance table takes priority over gross footnote.,30.0,Issuer statement
+Axis total amortized cost,31 Mar 2026,AR26.pdf,"PDF pp157–158 note 20, current + noncurrent",2026-07-23,₹ lakh,40000,÷100; balance after current portion allocated by surviving maturity weights,400.0,"Carrying value, not gross face"
+sovereign_yield,6 Nov valuation,CCIL,6 Nov tenor 9–10 years,2026-11-06,%,7.1816,percent ÷ 100,0.071816,Source register / assumption
+erp,6 Nov valuation,ERPJuly26.xlsx,ERPs by country!E73,2026-07-15 (release article),decimal,0.06920182533929162,decimal,0.06920182533929162,Source register / assumption
+credit_spread,6 Nov valuation,ERPJuly26.xlsx,ERPs by country!D73,2026-07-15 (release article),decimal,0.01749881223830583,decimal,0.01749881223830583,Source register / assumption
+debt_cost,6 Nov valuation,AR26.pdf,p157 note 20,2026-07-23,decimal,0.078,upper end of domestic floating range,0.078,Source register / assumption
+tax,6 Nov valuation,assumptions.json,tax,Analyst assumption,decimal,0.25168,normalized marginal rate,0.25168,Source register / assumption
+shares_issued,6 Nov valuation,CEATSHP.pdf,Table I,October quarter filing; issuer PDF generated 2026-11-03,shares,40450092,count ÷ 10 million = crore shares,40450092,Source register / assumption
+APOLLOTYRE close,2025-11-07,market.csv,NSE EQ CLOSE_PRICE,2025-11-07,₹ / share,515.4,weekly price return: current / previous − 1,515.4,URL in market.csv
+CEATLTD close,2025-11-07,market.csv,NSE EQ CLOSE_PRICE,2025-11-07,₹ / share,4026.0,weekly price return: current / previous − 1,4026.0,URL in market.csv
+JKTYRE close,2025-11-07,market.csv,NSE EQ CLOSE_PRICE,2025-11-07,₹ / share,458.5,weekly price return: current / previous − 1,458.5,URL in market.csv
+MRF close,2025-11-07,market.csv,NSE EQ CLOSE_PRICE,2025-11-07,₹ / share,158765.0,weekly price return: current / previous − 1,158765.0,URL in market.csv
+NIFTYBEES close,2025-11-07,market.csv,NSE EQ CLOSE_PRICE,2025-11-07,₹ / share,288.44,weekly price return: current / previous − 1,288.44,URL in market.csv
+APOLLOTYRE close,2025-11-14,market.csv,NSE EQ CLOSE_PRICE,2025-11-14,₹ / share,518.7,weekly price return: current / previous − 1,518.7,URL in market.csv
+CEATLTD close,2025-11-14,market.csv,NSE EQ CLOSE_PRICE,2025-11-14,₹ / share,3986.4,weekly price return: current / previous − 1,3986.4,URL in market.csv
+JKTYRE close,2025-11-14,market.csv,NSE EQ CLOSE_PRICE,2025-11-14,₹ / share,460.0,weekly price return: current / previous − 1,460.0,URL in market.csv
+MRF close,2025-11-14,market.csv,NSE EQ CLOSE_PRICE,2025-11-14,₹ / share,157400.0,weekly price return: current / previous − 1,157400.0,URL in market.csv
+NIFTYBEES close,2025-11-14,market.csv,NSE EQ CLOSE_PRICE,2025-11-14,₹ / share,292.83,weekly price return: current / previous − 1,292.83,URL in market.csv
+APOLLOTYRE close,2025-11-21,market.csv,NSE EQ CLOSE_PRICE,2025-11-21,₹ / share,512.4,weekly price return: current / previous − 1,512.4,URL in market.csv
+CEATLTD close,2025-11-21,market.csv,NSE EQ CLOSE_PRICE,2025-11-21,₹ / share,3877.8,weekly price return: current / previous − 1,3877.8,URL in market.csv
+JKTYRE close,2025-11-21,market.csv,NSE EQ CLOSE_PRICE,2025-11-21,₹ / share,446.45,weekly price return: current / previous − 1,446.45,URL in market.csv
+MRF close,2025-11-21,market.csv,NSE EQ CLOSE_PRICE,2025-11-21,₹ / share,152435.0,weekly price return: current / previous − 1,152435.0,URL in market.csv
+NIFTYBEES close,2025-11-21,market.csv,NSE EQ CLOSE_PRICE,2025-11-21,₹ / share,294.32,weekly price return: current / previous − 1,294.32,URL in market.csv
+APOLLOTYRE close,2025-11-28,market.csv,NSE EQ CLOSE_PRICE,2025-11-28,₹ / share,514.0,weekly price return: current / previous − 1,514.0,URL in market.csv
+CEATLTD close,2025-11-28,market.csv,NSE EQ CLOSE_PRICE,2025-11-28,₹ / share,3847.0,weekly price return: current / previous − 1,3847.0,URL in market.csv
+JKTYRE close,2025-11-28,market.csv,NSE EQ CLOSE_PRICE,2025-11-28,₹ / share,447.0,weekly price return: current / previous − 1,447.0,URL in market.csv
+MRF close,2025-11-28,market.csv,NSE EQ CLOSE_PRICE,2025-11-28,₹ / share,152420.0,weekly price return: current / previous − 1,152420.0,URL in market.csv
+NIFTYBEES close,2025-11-28,market.csv,NSE EQ CLOSE_PRICE,2025-11-28,₹ / share,296.49,weekly price return: current / previous − 1,296.49,URL in market.csv
+APOLLOTYRE close,2025-12-05,market.csv,NSE EQ CLOSE_PRICE,2025-12-05,₹ / share,521.45,weekly price return: current / previous − 1,521.45,URL in market.csv
+CEATLTD close,2025-12-05,market.csv,NSE EQ CLOSE_PRICE,2025-12-05,₹ / share,3906.9,weekly price return: current / previous − 1,3906.9,URL in market.csv
+JKTYRE close,2025-12-05,market.csv,NSE EQ CLOSE_PRICE,2025-12-05,₹ / share,464.3,weekly price return: current / previous − 1,464.3,URL in market.csv
+MRF close,2025-12-05,market.csv,NSE EQ CLOSE_PRICE,2025-12-05,₹ / share,153210.0,weekly price return: current / previous − 1,153210.0,URL in market.csv
+NIFTYBEES close,2025-12-05,market.csv,NSE EQ CLOSE_PRICE,2025-12-05,₹ / share,296.01,weekly price return: current / previous − 1,296.01,URL in market.csv
+APOLLOTYRE close,2025-12-12,market.csv,NSE EQ CLOSE_PRICE,2025-12-12,₹ / share,510.0,weekly price return: current / previous − 1,510.0,URL in market.csv
+CEATLTD close,2025-12-12,market.csv,NSE EQ CLOSE_PRICE,2025-12-12,₹ / share,3730.5,weekly price return: current / previous − 1,3730.5,URL in market.csv
+JKTYRE close,2025-12-12,market.csv,NSE EQ CLOSE_PRICE,2025-12-12,₹ / share,455.0,weekly price return: current / previous − 1,455.0,URL in market.csv
+MRF close,2025-12-12,market.csv,NSE EQ CLOSE_PRICE,2025-12-12,₹ / share,152550.0,weekly price return: current / previous − 1,152550.0,URL in market.csv
+NIFTYBEES close,2025-12-12,market.csv,NSE EQ CLOSE_PRICE,2025-12-12,₹ / share,294.69,weekly price return: current / previous − 1,294.69,URL in market.csv
+APOLLOTYRE close,2025-12-19,market.csv,NSE EQ CLOSE_PRICE,2025-12-19,₹ / share,507.05,weekly price return: current / previous − 1,507.05,URL in market.csv
+CEATLTD close,2025-12-19,market.csv,NSE EQ CLOSE_PRICE,2025-12-19,₹ / share,3931.7,weekly price return: current / previous − 1,3931.7,URL in market.csv
+JKTYRE close,2025-12-19,market.csv,NSE EQ CLOSE_PRICE,2025-12-19,₹ / share,485.75,weekly price return: current / previous − 1,485.75,URL in market.csv
+MRF close,2025-12-19,market.csv,NSE EQ CLOSE_PRICE,2025-12-19,₹ / share,153580.0,weekly price return: current / previous − 1,153580.0,URL in market.csv
+NIFTYBEES close,2025-12-19,market.csv,NSE EQ CLOSE_PRICE,2025-12-19,₹ / share,293.44,weekly price return: current / previous − 1,293.44,URL in market.csv
+APOLLOTYRE close,2025-12-26,market.csv,NSE EQ CLOSE_PRICE,2025-12-26,₹ / share,505.8,weekly price return: current / previous − 1,505.8,URL in market.csv
+CEATLTD close,2025-12-26,market.csv,NSE EQ CLOSE_PRICE,2025-12-26,₹ / share,3857.8,weekly price return: current / previous − 1,3857.8,URL in market.csv
+JKTYRE close,2025-12-26,market.csv,NSE EQ CLOSE_PRICE,2025-12-26,₹ / share,497.55,weekly price return: current / previous − 1,497.55,URL in market.csv
+MRF close,2025-12-26,market.csv,NSE EQ CLOSE_PRICE,2025-12-26,₹ / share,150205.0,weekly price return: current / previous − 1,150205.0,URL in market.csv
+NIFTYBEES close,2025-12-26,market.csv,NSE EQ CLOSE_PRICE,2025-12-26,₹ / share,294.46,weekly price return: current / previous − 1,294.46,URL in market.csv
+APOLLOTYRE close,2026-01-02,market.csv,NSE EQ CLOSE_PRICE,2026-01-02,₹ / share,497.25,weekly price return: current / previous − 1,497.25,URL in market.csv
+CEATLTD close,2026-01-02,market.csv,NSE EQ CLOSE_PRICE,2026-01-02,₹ / share,3887.2,weekly price return: current / previous − 1,3887.2,URL in market.csv
+JKTYRE close,2026-01-02,market.csv,NSE EQ CLOSE_PRICE,2026-01-02,₹ / share,511.55,weekly price return: current / previous − 1,511.55,URL in market.csv
+MRF close,2026-01-02,market.csv,NSE EQ CLOSE_PRICE,2026-01-02,₹ / share,150685.0,weekly price return: current / previous − 1,150685.0,URL in market.csv
+NIFTYBEES close,2026-01-02,market.csv,NSE EQ CLOSE_PRICE,2026-01-02,₹ / share,297.55,weekly price return: current / previous − 1,297.55,URL in market.csv
+APOLLOTYRE close,2026-01-09,market.csv,NSE EQ CLOSE_PRICE,2026-01-09,₹ / share,504.4,weekly price return: current / previous − 1,504.4,URL in market.csv
+CEATLTD close,2026-01-09,market.csv,NSE EQ CLOSE_PRICE,2026-01-09,₹ / share,3728.6,weekly price return: current / previous − 1,3728.6,URL in market.csv
+JKTYRE close,2026-01-09,market.csv,NSE EQ CLOSE_PRICE,2026-01-09,₹ / share,506.5,weekly price return: current / previous − 1,506.5,URL in market.csv
+MRF close,2026-01-09,market.csv,NSE EQ CLOSE_PRICE,2026-01-09,₹ / share,147095.0,weekly price return: current / previous − 1,147095.0,URL in market.csv
+NIFTYBEES close,2026-01-09,market.csv,NSE EQ CLOSE_PRICE,2026-01-09,₹ / share,290.59,weekly price return: current / previous − 1,290.59,URL in market.csv
+APOLLOTYRE close,2026-01-16,market.csv,NSE EQ CLOSE_PRICE,2026-01-16,₹ / share,508.55,weekly price return: current / previous − 1,508.55,URL in market.csv
+CEATLTD close,2026-01-16,market.csv,NSE EQ CLOSE_PRICE,2026-01-16,₹ / share,3793.4,weekly price return: current / previous − 1,3793.4,URL in market.csv
+JKTYRE close,2026-01-16,market.csv,NSE EQ CLOSE_PRICE,2026-01-16,₹ / share,503.4,weekly price return: current / previous − 1,503.4,URL in market.csv
+MRF close,2026-01-16,market.csv,NSE EQ CLOSE_PRICE,2026-01-16,₹ / share,142840.0,weekly price return: current / previous − 1,142840.0,URL in market.csv
+NIFTYBEES close,2026-01-16,market.csv,NSE EQ CLOSE_PRICE,2026-01-16,₹ / share,291.04,weekly price return: current / previous − 1,291.04,URL in market.csv
+APOLLOTYRE close,2026-01-23,market.csv,NSE EQ CLOSE_PRICE,2026-01-23,₹ / share,499.2,weekly price return: current / previous − 1,499.2,URL in market.csv
+CEATLTD close,2026-01-23,market.csv,NSE EQ CLOSE_PRICE,2026-01-23,₹ / share,3718.2,weekly price return: current / previous − 1,3718.2,URL in market.csv
+JKTYRE close,2026-01-23,market.csv,NSE EQ CLOSE_PRICE,2026-01-23,₹ / share,508.05,weekly price return: current / previous − 1,508.05,URL in market.csv
+MRF close,2026-01-23,market.csv,NSE EQ CLOSE_PRICE,2026-01-23,₹ / share,137475.0,weekly price return: current / previous − 1,137475.0,URL in market.csv
+NIFTYBEES close,2026-01-23,market.csv,NSE EQ CLOSE_PRICE,2026-01-23,₹ / share,283.91,weekly price return: current / previous − 1,283.91,URL in market.csv
+APOLLOTYRE close,2026-01-30,market.csv,NSE EQ CLOSE_PRICE,2026-01-30,₹ / share,492.15,weekly price return: current / previous − 1,492.15,URL in market.csv
+CEATLTD close,2026-01-30,market.csv,NSE EQ CLOSE_PRICE,2026-01-30,₹ / share,3761.8,weekly price return: current / previous − 1,3761.8,URL in market.csv
+JKTYRE close,2026-01-30,market.csv,NSE EQ CLOSE_PRICE,2026-01-30,₹ / share,519.7,weekly price return: current / previous − 1,519.7,URL in market.csv
+MRF close,2026-01-30,market.csv,NSE EQ CLOSE_PRICE,2026-01-30,₹ / share,132165.0,weekly price return: current / previous − 1,132165.0,URL in market.csv
+NIFTYBEES close,2026-01-30,market.csv,NSE EQ CLOSE_PRICE,2026-01-30,₹ / share,286.73,weekly price return: current / previous − 1,286.73,URL in market.csv
+APOLLOTYRE close,2026-02-06,market.csv,NSE EQ CLOSE_PRICE,2026-02-06,₹ / share,504.2,weekly price return: current / previous − 1,504.2,URL in market.csv
+CEATLTD close,2026-02-06,market.csv,NSE EQ CLOSE_PRICE,2026-02-06,₹ / share,3924.4,weekly price return: current / previous − 1,3924.4,URL in market.csv
+JKTYRE close,2026-02-06,market.csv,NSE EQ CLOSE_PRICE,2026-02-06,₹ / share,541.45,weekly price return: current / previous − 1,541.45,URL in market.csv
+MRF close,2026-02-06,market.csv,NSE EQ CLOSE_PRICE,2026-02-06,₹ / share,146455.0,weekly price return: current / previous − 1,146455.0,URL in market.csv
+NIFTYBEES close,2026-02-06,market.csv,NSE EQ CLOSE_PRICE,2026-02-06,₹ / share,290.65,weekly price return: current / previous − 1,290.65,URL in market.csv
+APOLLOTYRE close,2026-02-13,market.csv,NSE EQ CLOSE_PRICE,2026-02-13,₹ / share,489.65,weekly price return: current / previous − 1,489.65,URL in market.csv
+CEATLTD close,2026-02-13,market.csv,NSE EQ CLOSE_PRICE,2026-02-13,₹ / share,3965.3,weekly price return: current / previous − 1,3965.3,URL in market.csv
+JKTYRE close,2026-02-13,market.csv,NSE EQ CLOSE_PRICE,2026-02-13,₹ / share,587.95,weekly price return: current / previous − 1,587.95,URL in market.csv
+MRF close,2026-02-13,market.csv,NSE EQ CLOSE_PRICE,2026-02-13,₹ / share,150105.0,weekly price return: current / previous − 1,150105.0,URL in market.csv
+NIFTYBEES close,2026-02-13,market.csv,NSE EQ CLOSE_PRICE,2026-02-13,₹ / share,288.87,weekly price return: current / previous − 1,288.87,URL in market.csv
+APOLLOTYRE close,2026-02-20,market.csv,NSE EQ CLOSE_PRICE,2026-02-20,₹ / share,455.35,weekly price return: current / previous − 1,455.35,URL in market.csv
+CEATLTD close,2026-02-20,market.csv,NSE EQ CLOSE_PRICE,2026-02-20,₹ / share,3793.8,weekly price return: current / previous − 1,3793.8,URL in market.csv
+JKTYRE close,2026-02-20,market.csv,NSE EQ CLOSE_PRICE,2026-02-20,₹ / share,538.3,weekly price return: current / previous − 1,538.3,URL in market.csv
+MRF close,2026-02-20,market.csv,NSE EQ CLOSE_PRICE,2026-02-20,₹ / share,146390.0,weekly price return: current / previous − 1,146390.0,URL in market.csv
+NIFTYBEES close,2026-02-20,market.csv,NSE EQ CLOSE_PRICE,2026-02-20,₹ / share,289.23,weekly price return: current / previous − 1,289.23,URL in market.csv
+APOLLOTYRE close,2026-02-27,market.csv,NSE EQ CLOSE_PRICE,2026-02-27,₹ / share,454.05,weekly price return: current / previous − 1,454.05,URL in market.csv
+CEATLTD close,2026-02-27,market.csv,NSE EQ CLOSE_PRICE,2026-02-27,₹ / share,3531.4,weekly price return: current / previous − 1,3531.4,URL in market.csv
+JKTYRE close,2026-02-27,market.csv,NSE EQ CLOSE_PRICE,2026-02-27,₹ / share,501.1,weekly price return: current / previous − 1,501.1,URL in market.csv
+MRF close,2026-02-27,market.csv,NSE EQ CLOSE_PRICE,2026-02-27,₹ / share,140985.0,weekly price return: current / previous − 1,140985.0,URL in market.csv
+NIFTYBEES close,2026-02-27,market.csv,NSE EQ CLOSE_PRICE,2026-02-27,₹ / share,285.29,weekly price return: current / previous − 1,285.29,URL in market.csv
+APOLLOTYRE close,2026-03-06,market.csv,NSE EQ CLOSE_PRICE,2026-03-06,₹ / share,439.75,weekly price return: current / previous − 1,439.75,URL in market.csv
+CEATLTD close,2026-03-06,market.csv,NSE EQ CLOSE_PRICE,2026-03-06,₹ / share,3457.8,weekly price return: current / previous − 1,3457.8,URL in market.csv
+JKTYRE close,2026-03-06,market.csv,NSE EQ CLOSE_PRICE,2026-03-06,₹ / share,452.55,weekly price return: current / previous − 1,452.55,URL in market.csv
+MRF close,2026-03-06,market.csv,NSE EQ CLOSE_PRICE,2026-03-06,₹ / share,138780.0,weekly price return: current / previous − 1,138780.0,URL in market.csv
+NIFTYBEES close,2026-03-06,market.csv,NSE EQ CLOSE_PRICE,2026-03-06,₹ / share,277.25,weekly price return: current / previous − 1,277.25,URL in market.csv
+APOLLOTYRE close,2026-03-13,market.csv,NSE EQ CLOSE_PRICE,2026-03-13,₹ / share,400.3,weekly price return: current / previous − 1,400.3,URL in market.csv
+CEATLTD close,2026-03-13,market.csv,NSE EQ CLOSE_PRICE,2026-03-13,₹ / share,3470.5,weekly price return: current / previous − 1,3470.5,URL in market.csv
+JKTYRE close,2026-03-13,market.csv,NSE EQ CLOSE_PRICE,2026-03-13,₹ / share,411.75,weekly price return: current / previous − 1,411.75,URL in market.csv
+MRF close,2026-03-13,market.csv,NSE EQ CLOSE_PRICE,2026-03-13,₹ / share,134920.0,weekly price return: current / previous − 1,134920.0,URL in market.csv
+NIFTYBEES close,2026-03-13,market.csv,NSE EQ CLOSE_PRICE,2026-03-13,₹ / share,262.69,weekly price return: current / previous − 1,262.69,URL in market.csv
+APOLLOTYRE close,2026-03-20,market.csv,NSE EQ CLOSE_PRICE,2026-03-20,₹ / share,420.85,weekly price return: current / previous − 1,420.85,URL in market.csv
+CEATLTD close,2026-03-20,market.csv,NSE EQ CLOSE_PRICE,2026-03-20,₹ / share,3537.5,weekly price return: current / previous − 1,3537.5,URL in market.csv
+JKTYRE close,2026-03-20,market.csv,NSE EQ CLOSE_PRICE,2026-03-20,₹ / share,417.25,weekly price return: current / previous − 1,417.25,URL in market.csv
+MRF close,2026-03-20,market.csv,NSE EQ CLOSE_PRICE,2026-03-20,₹ / share,127535.0,weekly price return: current / previous − 1,127535.0,URL in market.csv
+NIFTYBEES close,2026-03-20,market.csv,NSE EQ CLOSE_PRICE,2026-03-20,₹ / share,262.07,weekly price return: current / previous − 1,262.07,URL in market.csv
+APOLLOTYRE close,2026-03-27,market.csv,NSE EQ CLOSE_PRICE,2026-03-27,₹ / share,412.45,weekly price return: current / previous − 1,412.45,URL in market.csv
+CEATLTD close,2026-03-27,market.csv,NSE EQ CLOSE_PRICE,2026-03-27,₹ / share,3462.9,weekly price return: current / previous − 1,3462.9,URL in market.csv
+JKTYRE close,2026-03-27,market.csv,NSE EQ CLOSE_PRICE,2026-03-27,₹ / share,398.4,weekly price return: current / previous − 1,398.4,URL in market.csv
+MRF close,2026-03-27,market.csv,NSE EQ CLOSE_PRICE,2026-03-27,₹ / share,129575.0,weekly price return: current / previous − 1,129575.0,URL in market.csv
+NIFTYBEES close,2026-03-27,market.csv,NSE EQ CLOSE_PRICE,2026-03-27,₹ / share,258.89,weekly price return: current / previous − 1,258.89,URL in market.csv
+APOLLOTYRE close,2026-04-03,market.csv,NSE EQ CLOSE_PRICE,2026-04-03,₹ / share,409.45,weekly price return: current / previous − 1,409.45,URL in market.csv
+CEATLTD close,2026-04-03,market.csv,NSE EQ CLOSE_PRICE,2026-04-03,₹ / share,3368.3,weekly price return: current / previous − 1,3368.3,URL in market.csv
+JKTYRE close,2026-04-03,market.csv,NSE EQ CLOSE_PRICE,2026-04-03,₹ / share,388.95,weekly price return: current / previous − 1,388.95,URL in market.csv
+MRF close,2026-04-03,market.csv,NSE EQ CLOSE_PRICE,2026-04-03,₹ / share,126390.0,weekly price return: current / previous − 1,126390.0,URL in market.csv
+NIFTYBEES close,2026-04-03,market.csv,NSE EQ CLOSE_PRICE,2026-04-03,₹ / share,257.61,weekly price return: current / previous − 1,257.61,URL in market.csv
+APOLLOTYRE close,2026-04-10,market.csv,NSE EQ CLOSE_PRICE,2026-04-10,₹ / share,438.15,weekly price return: current / previous − 1,438.15,URL in market.csv
+CEATLTD close,2026-04-10,market.csv,NSE EQ CLOSE_PRICE,2026-04-10,₹ / share,3637.6,weekly price return: current / previous − 1,3637.6,URL in market.csv
+JKTYRE close,2026-04-10,market.csv,NSE EQ CLOSE_PRICE,2026-04-10,₹ / share,432.9,weekly price return: current / previous − 1,432.9,URL in market.csv
+MRF close,2026-04-10,market.csv,NSE EQ CLOSE_PRICE,2026-04-10,₹ / share,136705.0,weekly price return: current / previous − 1,136705.0,URL in market.csv
+NIFTYBEES close,2026-04-10,market.csv,NSE EQ CLOSE_PRICE,2026-04-10,₹ / share,271.95,weekly price return: current / previous − 1,271.95,URL in market.csv
+APOLLOTYRE close,2026-04-17,market.csv,NSE EQ CLOSE_PRICE,2026-04-17,₹ / share,445.4,weekly price return: current / previous − 1,445.4,URL in market.csv
+CEATLTD close,2026-04-17,market.csv,NSE EQ CLOSE_PRICE,2026-04-17,₹ / share,3716.1,weekly price return: current / previous − 1,3716.1,URL in market.csv
+JKTYRE close,2026-04-17,market.csv,NSE EQ CLOSE_PRICE,2026-04-17,₹ / share,428.4,weekly price return: current / previous − 1,428.4,URL in market.csv
+MRF close,2026-04-17,market.csv,NSE EQ CLOSE_PRICE,2026-04-17,₹ / share,139855.0,weekly price return: current / previous − 1,139855.0,URL in market.csv
+NIFTYBEES close,2026-04-17,market.csv,NSE EQ CLOSE_PRICE,2026-04-17,₹ / share,275.87,weekly price return: current / previous − 1,275.87,URL in market.csv
+APOLLOTYRE close,2026-04-24,market.csv,NSE EQ CLOSE_PRICE,2026-04-24,₹ / share,423.85,weekly price return: current / previous − 1,423.85,URL in market.csv
+CEATLTD close,2026-04-24,market.csv,NSE EQ CLOSE_PRICE,2026-04-24,₹ / share,3476.2,weekly price return: current / previous − 1,3476.2,URL in market.csv
+JKTYRE close,2026-04-24,market.csv,NSE EQ CLOSE_PRICE,2026-04-24,₹ / share,397.3,weekly price return: current / previous − 1,397.3,URL in market.csv
+MRF close,2026-04-24,market.csv,NSE EQ CLOSE_PRICE,2026-04-24,₹ / share,132145.0,weekly price return: current / previous − 1,132145.0,URL in market.csv
+NIFTYBEES close,2026-04-24,market.csv,NSE EQ CLOSE_PRICE,2026-04-24,₹ / share,271.09,weekly price return: current / previous − 1,271.09,URL in market.csv
+APOLLOTYRE close,2026-05-01,market.csv,NSE EQ CLOSE_PRICE,2026-05-01,₹ / share,408.4,weekly price return: current / previous − 1,408.4,URL in market.csv
+CEATLTD close,2026-05-01,market.csv,NSE EQ CLOSE_PRICE,2026-05-01,₹ / share,3445.2,weekly price return: current / previous − 1,3445.2,URL in market.csv
+JKTYRE close,2026-05-01,market.csv,NSE EQ CLOSE_PRICE,2026-05-01,₹ / share,406.1,weekly price return: current / previous − 1,406.1,URL in market.csv
+MRF close,2026-05-01,market.csv,NSE EQ CLOSE_PRICE,2026-05-01,₹ / share,129710.0,weekly price return: current / previous − 1,129710.0,URL in market.csv
+NIFTYBEES close,2026-05-01,market.csv,NSE EQ CLOSE_PRICE,2026-05-01,₹ / share,272.01,weekly price return: current / previous − 1,272.01,URL in market.csv
+APOLLOTYRE close,2026-05-08,market.csv,NSE EQ CLOSE_PRICE,2026-05-08,₹ / share,409.25,weekly price return: current / previous − 1,409.25,URL in market.csv
+CEATLTD close,2026-05-08,market.csv,NSE EQ CLOSE_PRICE,2026-05-08,₹ / share,3323.8,weekly price return: current / previous − 1,3323.8,URL in market.csv
+JKTYRE close,2026-05-08,market.csv,NSE EQ CLOSE_PRICE,2026-05-08,₹ / share,405.95,weekly price return: current / previous − 1,405.95,URL in market.csv
+MRF close,2026-05-08,market.csv,NSE EQ CLOSE_PRICE,2026-05-08,₹ / share,130425.0,weekly price return: current / previous − 1,130425.0,URL in market.csv
+NIFTYBEES close,2026-05-08,market.csv,NSE EQ CLOSE_PRICE,2026-05-08,₹ / share,273.94,weekly price return: current / previous − 1,273.94,URL in market.csv
+APOLLOTYRE close,2026-05-15,market.csv,NSE EQ CLOSE_PRICE,2026-05-15,₹ / share,394.5,weekly price return: current / previous − 1,394.5,URL in market.csv
+CEATLTD close,2026-05-15,market.csv,NSE EQ CLOSE_PRICE,2026-05-15,₹ / share,3212.2,weekly price return: current / previous − 1,3212.2,URL in market.csv
+JKTYRE close,2026-05-15,market.csv,NSE EQ CLOSE_PRICE,2026-05-15,₹ / share,378.05,weekly price return: current / previous − 1,378.05,URL in market.csv
+MRF close,2026-05-15,market.csv,NSE EQ CLOSE_PRICE,2026-05-15,₹ / share,128640.0,weekly price return: current / previous − 1,128640.0,URL in market.csv
+NIFTYBEES close,2026-05-15,market.csv,NSE EQ CLOSE_PRICE,2026-05-15,₹ / share,267.3,weekly price return: current / previous − 1,267.3,URL in market.csv
+APOLLOTYRE close,2026-05-22,market.csv,NSE EQ CLOSE_PRICE,2026-05-22,₹ / share,371.8,weekly price return: current / previous − 1,371.8,URL in market.csv
+CEATLTD close,2026-05-22,market.csv,NSE EQ CLOSE_PRICE,2026-05-22,₹ / share,3256.6,weekly price return: current / previous − 1,3256.6,URL in market.csv
+JKTYRE close,2026-05-22,market.csv,NSE EQ CLOSE_PRICE,2026-05-22,₹ / share,367.6,weekly price return: current / previous − 1,367.6,URL in market.csv
+MRF close,2026-05-22,market.csv,NSE EQ CLOSE_PRICE,2026-05-22,₹ / share,126785.0,weekly price return: current / previous − 1,126785.0,URL in market.csv
+NIFTYBEES close,2026-05-22,market.csv,NSE EQ CLOSE_PRICE,2026-05-22,₹ / share,269.1,weekly price return: current / previous − 1,269.1,URL in market.csv
+APOLLOTYRE close,2026-05-29,market.csv,NSE EQ CLOSE_PRICE,2026-05-29,₹ / share,394.5,weekly price return: current / previous − 1,394.5,URL in market.csv
+CEATLTD close,2026-05-29,market.csv,NSE EQ CLOSE_PRICE,2026-05-29,₹ / share,3241.0,weekly price return: current / previous − 1,3241.0,URL in market.csv
+JKTYRE close,2026-05-29,market.csv,NSE EQ CLOSE_PRICE,2026-05-29,₹ / share,408.0,weekly price return: current / previous − 1,408.0,URL in market.csv
+MRF close,2026-05-29,market.csv,NSE EQ CLOSE_PRICE,2026-05-29,₹ / share,123420.0,weekly price return: current / previous − 1,123420.0,URL in market.csv
+NIFTYBEES close,2026-05-29,market.csv,NSE EQ CLOSE_PRICE,2026-05-29,₹ / share,267.78,weekly price return: current / previous − 1,267.78,URL in market.csv
+APOLLOTYRE close,2026-06-05,market.csv,NSE EQ CLOSE_PRICE,2026-06-05,₹ / share,396.8,weekly price return: current / previous − 1,396.8,URL in market.csv
+CEATLTD close,2026-06-05,market.csv,NSE EQ CLOSE_PRICE,2026-06-05,₹ / share,3191.5,weekly price return: current / previous − 1,3191.5,URL in market.csv
+JKTYRE close,2026-06-05,market.csv,NSE EQ CLOSE_PRICE,2026-06-05,₹ / share,381.85,weekly price return: current / previous − 1,381.85,URL in market.csv
+MRF close,2026-06-05,market.csv,NSE EQ CLOSE_PRICE,2026-06-05,₹ / share,123505.0,weekly price return: current / previous − 1,123505.0,URL in market.csv
+NIFTYBEES close,2026-06-05,market.csv,NSE EQ CLOSE_PRICE,2026-06-05,₹ / share,265.36,weekly price return: current / previous − 1,265.36,URL in market.csv
+APOLLOTYRE close,2026-06-12,market.csv,NSE EQ CLOSE_PRICE,2026-06-12,₹ / share,396.3,weekly price return: current / previous − 1,396.3,URL in market.csv
+CEATLTD close,2026-06-12,market.csv,NSE EQ CLOSE_PRICE,2026-06-12,₹ / share,3334.3,weekly price return: current / previous − 1,3334.3,URL in market.csv
+JKTYRE close,2026-06-12,market.csv,NSE EQ CLOSE_PRICE,2026-06-12,₹ / share,378.25,weekly price return: current / previous − 1,378.25,URL in market.csv
+MRF close,2026-06-12,market.csv,NSE EQ CLOSE_PRICE,2026-06-12,₹ / share,125515.0,weekly price return: current / previous − 1,125515.0,URL in market.csv
+NIFTYBEES close,2026-06-12,market.csv,NSE EQ CLOSE_PRICE,2026-06-12,₹ / share,267.86,weekly price return: current / previous − 1,267.86,URL in market.csv
+APOLLOTYRE close,2026-06-19,market.csv,NSE EQ CLOSE_PRICE,2026-06-19,₹ / share,425.5,weekly price return: current / previous − 1,425.5,URL in market.csv
+CEATLTD close,2026-06-19,market.csv,NSE EQ CLOSE_PRICE,2026-06-19,₹ / share,3450.0,weekly price return: current / previous − 1,3450.0,URL in market.csv
+JKTYRE close,2026-06-19,market.csv,NSE EQ CLOSE_PRICE,2026-06-19,₹ / share,401.3,weekly price return: current / previous − 1,401.3,URL in market.csv
+MRF close,2026-06-19,market.csv,NSE EQ CLOSE_PRICE,2026-06-19,₹ / share,128645.0,weekly price return: current / previous − 1,128645.0,URL in market.csv
+NIFTYBEES close,2026-06-19,market.csv,NSE EQ CLOSE_PRICE,2026-06-19,₹ / share,272.95,weekly price return: current / previous − 1,272.95,URL in market.csv
+APOLLOTYRE close,2026-06-26,market.csv,NSE EQ CLOSE_PRICE,2026-06-26,₹ / share,430.65,weekly price return: current / previous − 1,430.65,URL in market.csv
+CEATLTD close,2026-06-26,market.csv,NSE EQ CLOSE_PRICE,2026-06-26,₹ / share,3490.0,weekly price return: current / previous − 1,3490.0,URL in market.csv
+JKTYRE close,2026-06-26,market.csv,NSE EQ CLOSE_PRICE,2026-06-26,₹ / share,397.15,weekly price return: current / previous − 1,397.15,URL in market.csv
+MRF close,2026-06-26,market.csv,NSE EQ CLOSE_PRICE,2026-06-26,₹ / share,129550.0,weekly price return: current / previous − 1,129550.0,URL in market.csv
+NIFTYBEES close,2026-06-26,market.csv,NSE EQ CLOSE_PRICE,2026-06-26,₹ / share,273.43,weekly price return: current / previous − 1,273.43,URL in market.csv
+APOLLOTYRE close,2026-07-03,market.csv,NSE EQ CLOSE_PRICE,2026-07-03,₹ / share,448.5,weekly price return: current / previous − 1,448.5,URL in market.csv
+CEATLTD close,2026-07-03,market.csv,NSE EQ CLOSE_PRICE,2026-07-03,₹ / share,3799.4,weekly price return: current / previous − 1,3799.4,URL in market.csv
+JKTYRE close,2026-07-03,market.csv,NSE EQ CLOSE_PRICE,2026-07-03,₹ / share,412.55,weekly price return: current / previous − 1,412.55,URL in market.csv
+MRF close,2026-07-03,market.csv,NSE EQ CLOSE_PRICE,2026-07-03,₹ / share,134655.0,weekly price return: current / previous − 1,134655.0,URL in market.csv
+NIFTYBEES close,2026-07-03,market.csv,NSE EQ CLOSE_PRICE,2026-07-03,₹ / share,275.91,weekly price return: current / previous − 1,275.91,URL in market.csv
+APOLLOTYRE close,2026-07-10,market.csv,NSE EQ CLOSE_PRICE,2026-07-10,₹ / share,440.1,weekly price return: current / previous − 1,440.1,URL in market.csv
+CEATLTD close,2026-07-10,market.csv,NSE EQ CLOSE_PRICE,2026-07-10,₹ / share,3866.6,weekly price return: current / previous − 1,3866.6,URL in market.csv
+JKTYRE close,2026-07-10,market.csv,NSE EQ CLOSE_PRICE,2026-07-10,₹ / share,410.3,weekly price return: current / previous − 1,410.3,URL in market.csv
+MRF close,2026-07-10,market.csv,NSE EQ CLOSE_PRICE,2026-07-10,₹ / share,134425.0,weekly price return: current / previous − 1,134425.0,URL in market.csv
+NIFTYBEES close,2026-07-10,market.csv,NSE EQ CLOSE_PRICE,2026-07-10,₹ / share,275.07,weekly price return: current / previous − 1,275.07,URL in market.csv
+APOLLOTYRE close,2026-07-17,market.csv,NSE EQ CLOSE_PRICE,2026-07-17,₹ / share,430.65,weekly price return: current / previous − 1,430.65,URL in market.csv
+CEATLTD close,2026-07-17,market.csv,NSE EQ CLOSE_PRICE,2026-07-17,₹ / share,3549.9,weekly price return: current / previous − 1,3549.9,URL in market.csv
+JKTYRE close,2026-07-17,market.csv,NSE EQ CLOSE_PRICE,2026-07-17,₹ / share,403.2,weekly price return: current / previous − 1,403.2,URL in market.csv
+MRF close,2026-07-17,market.csv,NSE EQ CLOSE_PRICE,2026-07-17,₹ / share,130695.0,weekly price return: current / previous − 1,130695.0,URL in market.csv
+NIFTYBEES close,2026-07-17,market.csv,NSE EQ CLOSE_PRICE,2026-07-17,₹ / share,276.46,weekly price return: current / previous − 1,276.46,URL in market.csv
+APOLLOTYRE close,2026-07-24,market.csv,NSE EQ CLOSE_PRICE,2026-07-24,₹ / share,419.65,weekly price return: current / previous − 1,419.65,URL in market.csv
+CEATLTD close,2026-07-24,market.csv,NSE EQ CLOSE_PRICE,2026-07-24,₹ / share,3328.6,weekly price return: current / previous − 1,3328.6,URL in market.csv
+JKTYRE close,2026-07-24,market.csv,NSE EQ CLOSE_PRICE,2026-07-24,₹ / share,390.6,weekly price return: current / previous − 1,390.6,URL in market.csv
+MRF close,2026-07-24,market.csv,NSE EQ CLOSE_PRICE,2026-07-24,₹ / share,130755.0,weekly price return: current / previous − 1,130755.0,URL in market.csv
+NIFTYBEES close,2026-07-24,market.csv,NSE EQ CLOSE_PRICE,2026-07-24,₹ / share,271.21,weekly price return: current / previous − 1,271.21,URL in market.csv
+APOLLOTYRE close,2026-07-31,market.csv,NSE EQ CLOSE_PRICE,2026-07-31,₹ / share,428.15,weekly price return: current / previous − 1,428.15,URL in market.csv
+CEATLTD close,2026-07-31,market.csv,NSE EQ CLOSE_PRICE,2026-07-31,₹ / share,3429.9,weekly price return: current / previous − 1,3429.9,URL in market.csv
+JKTYRE close,2026-07-31,market.csv,NSE EQ CLOSE_PRICE,2026-07-31,₹ / share,399.75,weekly price return: current / previous − 1,399.75,URL in market.csv
+MRF close,2026-07-31,market.csv,NSE EQ CLOSE_PRICE,2026-07-31,₹ / share,132770.0,weekly price return: current / previous − 1,132770.0,URL in market.csv
+NIFTYBEES close,2026-07-31,market.csv,NSE EQ CLOSE_PRICE,2026-07-31,₹ / share,277.42,weekly price return: current / previous − 1,277.42,URL in market.csv
+APOLLOTYRE close,2026-08-07,market.csv,NSE EQ CLOSE_PRICE,2026-08-07,₹ / share,445.0,weekly price return: current / previous − 1,445.0,URL in market.csv
+CEATLTD close,2026-08-07,market.csv,NSE EQ CLOSE_PRICE,2026-08-07,₹ / share,3723.1,weekly price return: current / previous − 1,3723.1,URL in market.csv
+JKTYRE close,2026-08-07,market.csv,NSE EQ CLOSE_PRICE,2026-08-07,₹ / share,394.9,weekly price return: current / previous − 1,394.9,URL in market.csv
+MRF close,2026-08-07,market.csv,NSE EQ CLOSE_PRICE,2026-08-07,₹ / share,134190.0,weekly price return: current / previous − 1,134190.0,URL in market.csv
+NIFTYBEES close,2026-08-07,market.csv,NSE EQ CLOSE_PRICE,2026-08-07,₹ / share,279.83,weekly price return: current / previous − 1,279.83,URL in market.csv
+APOLLOTYRE close,2026-08-14,market.csv,NSE EQ CLOSE_PRICE,2026-08-14,₹ / share,444.1,weekly price return: current / previous − 1,444.1,URL in market.csv
+CEATLTD close,2026-08-14,market.csv,NSE EQ CLOSE_PRICE,2026-08-14,₹ / share,3688.8,weekly price return: current / previous − 1,3688.8,URL in market.csv
+JKTYRE close,2026-08-14,market.csv,NSE EQ CLOSE_PRICE,2026-08-14,₹ / share,384.1,weekly price return: current / previous − 1,384.1,URL in market.csv
+MRF close,2026-08-14,market.csv,NSE EQ CLOSE_PRICE,2026-08-14,₹ / share,133490.0,weekly price return: current / previous − 1,133490.0,URL in market.csv
+NIFTYBEES close,2026-08-14,market.csv,NSE EQ CLOSE_PRICE,2026-08-14,₹ / share,278.35,weekly price return: current / previous − 1,278.35,URL in market.csv
+APOLLOTYRE close,2026-08-21,market.csv,NSE EQ CLOSE_PRICE,2026-08-21,₹ / share,439.7,weekly price return: current / previous − 1,439.7,URL in market.csv
+CEATLTD close,2026-08-21,market.csv,NSE EQ CLOSE_PRICE,2026-08-21,₹ / share,3563.4,weekly price return: current / previous − 1,3563.4,URL in market.csv
+JKTYRE close,2026-08-21,market.csv,NSE EQ CLOSE_PRICE,2026-08-21,₹ / share,374.7,weekly price return: current / previous − 1,374.7,URL in market.csv
+MRF close,2026-08-21,market.csv,NSE EQ CLOSE_PRICE,2026-08-21,₹ / share,132665.0,weekly price return: current / previous − 1,132665.0,URL in market.csv
+NIFTYBEES close,2026-08-21,market.csv,NSE EQ CLOSE_PRICE,2026-08-21,₹ / share,276.76,weekly price return: current / previous − 1,276.76,URL in market.csv
+APOLLOTYRE close,2026-08-28,market.csv,NSE EQ CLOSE_PRICE,2026-08-28,₹ / share,443.5,weekly price return: current / previous − 1,443.5,URL in market.csv
+CEATLTD close,2026-08-28,market.csv,NSE EQ CLOSE_PRICE,2026-08-28,₹ / share,3511.5,weekly price return: current / previous − 1,3511.5,URL in market.csv
+JKTYRE close,2026-08-28,market.csv,NSE EQ CLOSE_PRICE,2026-08-28,₹ / share,380.25,weekly price return: current / previous − 1,380.25,URL in market.csv
+MRF close,2026-08-28,market.csv,NSE EQ CLOSE_PRICE,2026-08-28,₹ / share,132080.0,weekly price return: current / previous − 1,132080.0,URL in market.csv
+NIFTYBEES close,2026-08-28,market.csv,NSE EQ CLOSE_PRICE,2026-08-28,₹ / share,275.62,weekly price return: current / previous − 1,275.62,URL in market.csv
+APOLLOTYRE close,2026-09-04,market.csv,NSE EQ CLOSE_PRICE,2026-09-04,₹ / share,429.55,weekly price return: current / previous − 1,429.55,URL in market.csv
+CEATLTD close,2026-09-04,market.csv,NSE EQ CLOSE_PRICE,2026-09-04,₹ / share,3333.2,weekly price return: current / previous − 1,3333.2,URL in market.csv
+JKTYRE close,2026-09-04,market.csv,NSE EQ CLOSE_PRICE,2026-09-04,₹ / share,367.35,weekly price return: current / previous − 1,367.35,URL in market.csv
+MRF close,2026-09-04,market.csv,NSE EQ CLOSE_PRICE,2026-09-04,₹ / share,129945.0,weekly price return: current / previous − 1,129945.0,URL in market.csv
+NIFTYBEES close,2026-09-04,market.csv,NSE EQ CLOSE_PRICE,2026-09-04,₹ / share,273.27,weekly price return: current / previous − 1,273.27,URL in market.csv
+APOLLOTYRE close,2026-09-11,market.csv,NSE EQ CLOSE_PRICE,2026-09-11,₹ / share,417.65,weekly price return: current / previous − 1,417.65,URL in market.csv
+CEATLTD close,2026-09-11,market.csv,NSE EQ CLOSE_PRICE,2026-09-11,₹ / share,3278.5,weekly price return: current / previous − 1,3278.5,URL in market.csv
+JKTYRE close,2026-09-11,market.csv,NSE EQ CLOSE_PRICE,2026-09-11,₹ / share,353.95,weekly price return: current / previous − 1,353.95,URL in market.csv
+MRF close,2026-09-11,market.csv,NSE EQ CLOSE_PRICE,2026-09-11,₹ / share,128290.0,weekly price return: current / previous − 1,128290.0,URL in market.csv
+NIFTYBEES close,2026-09-11,market.csv,NSE EQ CLOSE_PRICE,2026-09-11,₹ / share,267.14,weekly price return: current / previous − 1,267.14,URL in market.csv
+APOLLOTYRE close,2026-09-18,market.csv,NSE EQ CLOSE_PRICE,2026-09-18,₹ / share,409.3,weekly price return: current / previous − 1,409.3,URL in market.csv
+CEATLTD close,2026-09-18,market.csv,NSE EQ CLOSE_PRICE,2026-09-18,₹ / share,3468.9,weekly price return: current / previous − 1,3468.9,URL in market.csv
+JKTYRE close,2026-09-18,market.csv,NSE EQ CLOSE_PRICE,2026-09-18,₹ / share,349.35,weekly price return: current / previous − 1,349.35,URL in market.csv
+MRF close,2026-09-18,market.csv,NSE EQ CLOSE_PRICE,2026-09-18,₹ / share,125670.0,weekly price return: current / previous − 1,125670.0,URL in market.csv
+NIFTYBEES close,2026-09-18,market.csv,NSE EQ CLOSE_PRICE,2026-09-18,₹ / share,266.53,weekly price return: current / previous − 1,266.53,URL in market.csv
+APOLLOTYRE close,2026-09-25,market.csv,NSE EQ CLOSE_PRICE,2026-09-25,₹ / share,400.1,weekly price return: current / previous − 1,400.1,URL in market.csv
+CEATLTD close,2026-09-25,market.csv,NSE EQ CLOSE_PRICE,2026-09-25,₹ / share,3352.2,weekly price return: current / previous − 1,3352.2,URL in market.csv
+JKTYRE close,2026-09-25,market.csv,NSE EQ CLOSE_PRICE,2026-09-25,₹ / share,345.85,weekly price return: current / previous − 1,345.85,URL in market.csv
+MRF close,2026-09-25,market.csv,NSE EQ CLOSE_PRICE,2026-09-25,₹ / share,124035.0,weekly price return: current / previous − 1,124035.0,URL in market.csv
+NIFTYBEES close,2026-09-25,market.csv,NSE EQ CLOSE_PRICE,2026-09-25,₹ / share,264.13,weekly price return: current / previous − 1,264.13,URL in market.csv
+APOLLOTYRE close,2026-10-02,market.csv,NSE EQ CLOSE_PRICE,2026-10-02,₹ / share,404.75,weekly price return: current / previous − 1,404.75,URL in market.csv
+CEATLTD close,2026-10-02,market.csv,NSE EQ CLOSE_PRICE,2026-10-02,₹ / share,3286.6,weekly price return: current / previous − 1,3286.6,URL in market.csv
+JKTYRE close,2026-10-02,market.csv,NSE EQ CLOSE_PRICE,2026-10-02,₹ / share,340.35,weekly price return: current / previous − 1,340.35,URL in market.csv
+MRF close,2026-10-02,market.csv,NSE EQ CLOSE_PRICE,2026-10-02,₹ / share,123715.0,weekly price return: current / previous − 1,123715.0,URL in market.csv
+NIFTYBEES close,2026-10-02,market.csv,NSE EQ CLOSE_PRICE,2026-10-02,₹ / share,256.5,weekly price return: current / previous − 1,256.5,URL in market.csv
+APOLLOTYRE close,2026-10-09,market.csv,NSE EQ CLOSE_PRICE,2026-10-09,₹ / share,400.05,weekly price return: current / previous − 1,400.05,URL in market.csv
+CEATLTD close,2026-10-09,market.csv,NSE EQ CLOSE_PRICE,2026-10-09,₹ / share,3262.3,weekly price return: current / previous − 1,3262.3,URL in market.csv
+JKTYRE close,2026-10-09,market.csv,NSE EQ CLOSE_PRICE,2026-10-09,₹ / share,333.4,weekly price return: current / previous − 1,333.4,URL in market.csv
+MRF close,2026-10-09,market.csv,NSE EQ CLOSE_PRICE,2026-10-09,₹ / share,122090.0,weekly price return: current / previous − 1,122090.0,URL in market.csv
+NIFTYBEES close,2026-10-09,market.csv,NSE EQ CLOSE_PRICE,2026-10-09,₹ / share,257.35,weekly price return: current / previous − 1,257.35,URL in market.csv
+APOLLOTYRE close,2026-10-16,market.csv,NSE EQ CLOSE_PRICE,2026-10-16,₹ / share,408.85,weekly price return: current / previous − 1,408.85,URL in market.csv
+CEATLTD close,2026-10-16,market.csv,NSE EQ CLOSE_PRICE,2026-10-16,₹ / share,3294.9,weekly price return: current / previous − 1,3294.9,URL in market.csv
+JKTYRE close,2026-10-16,market.csv,NSE EQ CLOSE_PRICE,2026-10-16,₹ / share,338.4,weekly price return: current / previous − 1,338.4,URL in market.csv
+MRF close,2026-10-16,market.csv,NSE EQ CLOSE_PRICE,2026-10-16,₹ / share,122790.0,weekly price return: current / previous − 1,122790.0,URL in market.csv
+NIFTYBEES close,2026-10-16,market.csv,NSE EQ CLOSE_PRICE,2026-10-16,₹ / share,263.9,weekly price return: current / previous − 1,263.9,URL in market.csv
+APOLLOTYRE close,2026-10-23,market.csv,NSE EQ CLOSE_PRICE,2026-10-23,₹ / share,384.15,weekly price return: current / previous − 1,384.15,URL in market.csv
+CEATLTD close,2026-10-23,market.csv,NSE EQ CLOSE_PRICE,2026-10-23,₹ / share,3060.2,weekly price return: current / previous − 1,3060.2,URL in market.csv
+JKTYRE close,2026-10-23,market.csv,NSE EQ CLOSE_PRICE,2026-10-23,₹ / share,309.15,weekly price return: current / previous − 1,309.15,URL in market.csv
+MRF close,2026-10-23,market.csv,NSE EQ CLOSE_PRICE,2026-10-23,₹ / share,117915.0,weekly price return: current / previous − 1,117915.0,URL in market.csv
+NIFTYBEES close,2026-10-23,market.csv,NSE EQ CLOSE_PRICE,2026-10-23,₹ / share,257.22,weekly price return: current / previous − 1,257.22,URL in market.csv
+APOLLOTYRE close,2026-10-30,market.csv,NSE EQ CLOSE_PRICE,2026-10-30,₹ / share,379.45,weekly price return: current / previous − 1,379.45,URL in market.csv
+CEATLTD close,2026-10-30,market.csv,NSE EQ CLOSE_PRICE,2026-10-30,₹ / share,3087.2,weekly price return: current / previous − 1,3087.2,URL in market.csv
+JKTYRE close,2026-10-30,market.csv,NSE EQ CLOSE_PRICE,2026-10-30,₹ / share,301.8,weekly price return: current / previous − 1,301.8,URL in market.csv
+MRF close,2026-10-30,market.csv,NSE EQ CLOSE_PRICE,2026-10-30,₹ / share,116775.0,weekly price return: current / previous − 1,116775.0,URL in market.csv
+NIFTYBEES close,2026-10-30,market.csv,NSE EQ CLOSE_PRICE,2026-10-30,₹ / share,262.89,weekly price return: current / previous − 1,262.89,URL in market.csv
+APOLLOTYRE close,2026-11-06,market.csv,NSE EQ CLOSE_PRICE,2026-11-06,₹ / share,415.95,weekly price return: current / previous − 1,415.95,URL in market.csv
+CEATLTD close,2026-11-06,market.csv,NSE EQ CLOSE_PRICE,2026-11-06,₹ / share,3545.8,weekly price return: current / previous − 1,3545.8,URL in market.csv
+JKTYRE close,2026-11-06,market.csv,NSE EQ CLOSE_PRICE,2026-11-06,₹ / share,359.25,weekly price return: current / previous − 1,359.25,URL in market.csv
+MRF close,2026-11-06,market.csv,NSE EQ CLOSE_PRICE,2026-11-06,₹ / share,125295.0,weekly price return: current / previous − 1,125295.0,URL in market.csv
+NIFTYBEES close,2026-11-06,market.csv,NSE EQ CLOSE_PRICE,2026-11-06,₹ / share,284.22,weekly price return: current / previous − 1,284.22,URL in market.csv

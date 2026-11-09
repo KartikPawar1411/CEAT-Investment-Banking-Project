@@ -1,0 +1,1079 @@
+
+=== PDF PAGE 1 ===
+                                                                    General information about company
+Scrip code                                                                                                                                            500877
+NSE Symbol                                                                                                                                            APOLLOTYRE
+MSEI Symbol                                                                                                                                           NOTLISTED
+ISIN                                                                                                                                                  INE438A01022
+Name of the company                                                                                                                                   Apollo Tyres Limited
+Whether company is SME                                                                                                                                No
+Class of Security                                                                                                                                     Equity Shares
+Type of report                                                                                                                                        Quarterly
+Quarter Ended / Half year ended/Date of Report (For Prelisting / Allotment)                                                                           30-09-2026
+Date of allotment / extinguishment (in case Capital Restructuring selected) / Listing Date
+Shareholding pattern filed under                                                                                                                      Regulation 31 (1) (b)
+Whether the listed entity is Public Sector Undertaking (PSU)?                                                                                         No
+
+=== PDF PAGE 2 ===
+                                                                                      Declaration
+ Sr.                                            Particular                                           Yes/No     Promoter and Promoter               Public           Non Promoter- Non
+ No.                                                                                                                      Group                  shareholder                 Public
+1        Whether the Listed Entity has issued any partly paid up shares?                             No        No                             No                   No
+2        Whether the Listed Entity has issued any Convertible Securities ?                           No        No                             No                   No
+3        Whether the Listed Entity has issued any Warrants ?                                         No        No                             No                   No
+4        Whether Listed Entity has granted any ESOPs, which are outstanding?                         No        No                             No                   No
+5        Whether the Listed Entity has any shares against which depository receipts                  No        No                             No                   No
+         are issued?
+6        Whether the Listed Entity has any shares in locked-in?                                      No        No                             No                   No
+7        Whether any shares held by promoters are encumbered under "Pledged"?                        No        No
+8        Whether any shares held by promoters are encumbered under "Non-Disposal                     No        No
+         Undertaking"?
+9        Whether any shares held by promoters are encumbered, other than by way of                   No        No
+         Pledge or NDU, if any?
+10       Whether company has equity shares with differential voting rights?                          No        No                             No                   No
+11       Whether the listed entity has any significant beneficial owner?                             Yes
+
+=== PDF PAGE 3 ===
+                                                        Table VI - Statement showing foreign ownership limits
+                                     Particular                                                      Approved limits (%)                                  Limits utilized (%)
+As on shareholding date                                                                                         45                                                16.73
+As on the end of previous 1st quarter                                                                           45                                                22.66
+As on the end of previous 2nd quarter                                                                           45                                                23.02
+As on the end of previous 3rd quarter                                                                           45                                                22.93
+As on the end of previous 4th quarter                                                                           45                                                20.89
+
+=== PDF PAGE 4 ===
+                                                                              Table I - Summary Statement holding of specified securities
+                                                                                                                 Number of Voting Rights held in each                                                                                Total No.
+                                                          No.                                   Shareholding     class of securities (IX)                                                                         No. of Shares      of shares
+                                                          Of                                    as a % of                                                          No. Of                                         Underlying         on fully
+                                           No. of         Partly   No. Of        Total nos.     total no. of                                                       Shares          No. of          No. Of         Outstanding        diluted
+            Category       Nos. Of         fully paid     paid-    shares        shares held    shares                                                             Underlying      Shares          Outstanding    convertible        basis
+Category    of             shareholders    up equity      up       underlying    (VII) =        (calculated      No of Voting (XIV) Rights                         Outstanding     Underlying      ESOP           securities, No.    (including
+(I)         shareholder    (III)           shares held    equity   Depository    (IV)+(V)+      as per                                                Total as a   convertible     Outstanding     Granted        of Warrants        warrants,
+            (II)                           (IV)           shares   Receipts      (VI)           SCRR,                                                 % of         securities      Warrants        (XC)           and ESOP etc.      ESOP,
+                                                          held     (VI)                         1957) (VIII)                                          (A+B+C)      (XA)            (XB)                           (X) =              Convertible
+                                                          (V)                                   As a % of                                                                                                         (XA+XB+XC)         Securities
+                                                                                                (A+B+C2)         Class eg:X     Class   Total                                                                                        etc.) (XI)=
+                                                                                                                                eg:Y                                                                                                 (VII+X)
+            Promoter
+(A)         &              11              234543487                             234543487      36.93            234543487              234543487     36.93                                                                          234543487
+            Promoter
+            Group
+(B)         Public         420908          398037847                             398037847      62.67            398037847              398037847     62.67                                                                          398037847
+            Non
+(C)         Promoter-      1               2519612                               2519612                         2519612                2519612       0.4                                                                            2519612
+            Non Public
+            Shares
+(C1)        underlying     0               0                                     0                               0                      0             0                                                                              0
+            DRs
+            Shares held
+(C2)        by             1               2519612                               2519612        0.4              2519612                2519612       0.4                                                                            2519612
+            Employee
+            Trusts
+            Total          420920          635100946                             635100946      100              635100946              635100946     100                                                                            635100946
+
+=== PDF PAGE 5 ===
+                                                    Table I - Summary Statement holding of specified securities
+                           Shareholding      Number of       Number of       Non-                               Total Number of
+                           , as a %          Locked in       Shares          Disposal        Other              Shares
+                           assuming full     shares          pledged         Undertaking     encumbrances,      encumbered                              Sub-categorization of shares
+                           conversion of     (XIII)          (XIV)           (XV)            if any (XVI)       (XVII) =
+            Category       convertible                                                                          (XIV+XV+XVI)         Number of
+Category    of             securities ( as                                                                                           equity shares
+(I)         shareholder    a percentage            As a            As a            As a                                              held in
+            (II)           of diluted              % of            % of            % of             As a %             As a % of     dematerialized
+                           share capital)    No.   total     No.   total     No.   total     No.    of total    No.    total         form (XVIII)       Sub-        Sub-        Sub-
+                           (XII)=            (a)   Shares    (a)   Shares    (a)   Shares    (a)    Shares      (a)    Shares                           category    category    category
+                           (VII)+(X) As            held            held            held             held (b)           held (b)                         (i)         (ii)        (iii)
+                           a % of                  (b)             (b)             (b)
+                           (A+B+C2)
+            Promoter
+(A)         &              36.93                                                                                                     234536037
+            Promoter
+            Group
+(B)         Public         62.67                                                                                                     391376984          0           0           0
+            Non
+(C)         Promoter-                                                                                                                2519612
+            Non Public
+            Shares
+(C1)        underlying                                                                                                               0
+            DRs
+            Shares held
+(C2)        by             0.4                                                                                                       2519612
+            Employee
+            Trusts
+            Total          100                                                                                                       628432633          0           0           0
+
+=== PDF PAGE 6 ===
+                                                               Table II - Statement showing shareholding pattern of the Promoter and Promoter Group
+                                                                                                                               Number of Voting Rights held in each                                                                              Total No.
+                                                                        No.                                   Shareholding     class of securities (IX)                                                                       No. of Shares      of shares
+                                                                        Of                                    as a % of                                                        No. Of                                         Underlying         on fully
+                                                        No. of fully    Partly   No. Of        Total nos.     total no. of                                                     Shares          No. of          No. Of         Outstanding        diluted
+                  Category &            Nos. Of         paid up         paid-    shares        shares held    shares           No of Voting (XIV) Rights              Total    Underlying      Shares          Outstanding    convertible        basis
+Sr. No.           Name of the           shareholders    equity          up       underlying    (VII) =        (calculated                                             as a %   Outstanding     Underlying      ESOP           securities, No.    (including
+                  Shareholders (I)      (III)           shares held     equity   Depository    (IV)+(V)+      as per                                                  of       convertible     Outstanding     Granted        of Warrants        warrants,
+                                                        (IV)            shares   Receipts      (VI)           SCRR,                                                   Total    securities      Warrants        (XC)           and ESOP etc.      ESOP,
+                                                                        held     (VI)                         1957) (VIII)                                            Voting   (XA)            (XB)                           (X) =              Convertib
+                                                                        (V)                                   As a % of        Class eg: X     Class   Total          rights                                                  (XA+XB+XC)         Securities
+                                                                                                              (A+B+C2)                         eg:Y                                                                                              etc.) (XI)
+                                                                                                                                                                                                                                                 (VII+X)
+A                 Table II - Statement showing shareholding pattern of the Promoter and Promoter Group
+(1)               Indian
+(a)               Individuals/Hindu     3               114130                                 114130         0.02             114130                  114130         0.02                                                                       114130
+                  undivided Family
+(d)               Any Other             5               231762477                              231762477      36.49            231762477               231762477      36.49                                                                      23176247
+                  (specify)
+Sub-Total (A)                           8               231876607                              231876607      36.51            231876607               231876607      36.51                                                                      23187660
+(1)
+(2)               Foreign
+                  Individuals
+                  (NonResident
+(a)               Individuals/          3               2666880                                2666880        0.42             2666880                 2666880        0.42                                                                       2666880
+                  Foreign
+                  Individuals)
+Sub-Total (A)                           3               2666880                                2666880        0.42             2666880                 2666880        0.42                                                                       2666880
+(2)
+Total
+Shareholding
+of Promoter                             11              234543487                              234543487      36.93            234543487               234543487      36.93                                                                      23454348
+and Promoter
+Group (A)=
+(A)(1)+(A)(2)
+B                 Table III - Statement showing shareholding pattern of the Public shareholder
+(1)               Institutions (Domestic)
+(a)               Mutual Funds          45              138921742                              138921742      21.87            138921742               138921742      21.87                                                                      13892174
+(b)               Venture Capital       0               0                                      0              0                0                       0              0                                                                          0
+                  Funds
+(c)               Alternate             7               2439270                                2439270        0.38             2439270                 2439270        0.38                                                                       2439270
+                  Investment Funds
+(d)               Banks                 13              29814                                  29814          0                29814                   29814          0                                                                          29814
+(e)               Insurance             18              69805841                               69805841       10.99            69805841                69805841       10.99                                                                      69805841
+                  Companies
+(f)               Provident Funds/      0               0                                      0              0                0                       0              0                                                                          0
+                  Pension Funds
+
+=== PDF PAGE 7 ===
+                  Asset
+(g)               reconstruction        0               0                                      0             0                0                       0             0                                                                          0
+                  companies
+(h)               Sovereign Wealth      0               0                                      0             0                0                       0             0                                                                          0
+                  Funds
+(i)               NBFCs registered      1               1490                                   1490          0                1490                    1490          0                                                                          1490
+                  with RBI
+(j)               Other Financial       8               576250                                 576250        0.09             576250                  576250        0.09                                                                       576250
+                  Institutions
+(k)               Any Other             0               0                                      0             0                0                       0             0                                                                          0
+                  (specify)
+Sub-Total (B)                           92              211774407                              211774407     33.34            211774407               211774407     33.34                                                                      21177440
+(1)
+(2)               Institutions (Foreign)
+(a)               Foreign Direct        0               0                                      0             0                0                       0             0                                                                          0
+                  Investment
+(b)               Foreign Venture       0               0                                      0             0                0                       0             0                                                                          0
+                  Capital Investors
+(c)               Sovereign Wealth      0               0                                      0             0                0                       0             0                                                                          0
+                  Funds
+                  Foreign Portfolio
+(d)               Investors             196             61765138                               61765138      9.73             61765138                61765138      9.73                                                                       61765138
+                  Category I
+                  Foreign Portfolio
+(e)               Investors             18              1738734                                1738734       0.27             1738734                 1738734       0.27                                                                       1738734
+                  Category II
+                  Overseas
+(f)               Depositories          0               0                                      0             0                0                       0             0                                                                          0
+                  (holding DRs)
+                  (balancing figure)
+(g)               Any Other             18              498500                                 498500        0.08             498500                  498500        0.08                                                                       498500
+                  (specify)
+Sub-Total (B)                           232             64002372                               64002372      10.08            64002372                64002372      10.08                                                                      64002372
+(2)
+(3)               Central Government / State Government(s)
+                  Central
+(a)               Government /          0               0                                      0             0                0                       0             0                                                                          0
+                  President of India
+(b)               State Government      0               0                                      0             0                0                       0             0                                                                          0
+                  / Governor
+                  Shareholding by
+                  Companies or
+(c)               Bodies Corporate      3               10001500                               10001500      1.57             10001500                10001500      1.57                                                                       10001500
+                  where Central /
+                  State Government
+                  is a promoter
+Sub-Total (B)                           3               10001500                               10001500      1.57             10001500                10001500      1.57                                                                       10001500
+(3)
+(4)               Non-institutions
+                  Associate
+(a)               companies /           0               0                                      0             0                0                       0             0                                                                          0
+                  Subsidiaries
+
+=== PDF PAGE 8 ===
+                  Directors and
+                  their relatives
+                  (excluding
+(b)               independent           0               0                                      0              0                0                      0              0                                                                           0
+                  directors and
+                  nominee
+                  directors)
+(c)               Key Managerial        0               0                                      0              0                0                      0              0                                                                           0
+                  Personnel
+                  Relatives of
+                  promoters (other
+                  than ‘immediate
+                  relatives’ of
+(d)               promoters             0               0                                      0              0                0                      0              0                                                                           0
+                  disclosed under
+                  ‘Promoter and
+                  Promoter Group’
+                  category)
+                  Trusts where any
+                  person belonging
+                  to 'Promoter and
+                  Promoter Group'
+(e)               category is           0               0                                      0              0                0                      0              0                                                                           0
+                  'trustee',
+                  'beneficiary', or
+                  'author of the
+                  trust'
+                  Investor
+(f)               Education and         1               3030808                                3030808        0.48             3030808                3030808        0.48                                                                        3030808
+                  Protection Fund
+                  (IEPF)
+                  Resident
+                  Individuals
+(g)               holding nominal       407909          47414287                               47414287       7.47             47414287               47414287       7.47                                                                        47414287
+                  share capital up
+                  to Rs. 2 lakhs
+                  Resident
+                  Individuals
+(h)               holding nominal       2               599075                                 599075         0.09             599075                 599075         0.09                                                                        599075
+                  share capital in
+                  excess of Rs. 2
+                  lakhs
+(i)               Non Resident          8439            2956053                                2956053        0.47             2956053                2956053        0.47                                                                        2956053
+                  Indians (NRIs)
+(j)               Foreign Nationals     1               449                                    449            0                449                    449            0                                                                           449
+(k)               Foreign               1               36040966                               36040966       5.67             36040966               36040966       5.67                                                                        36040966
+                  Companies
+(l)               Bodies Corporate      1197            2687351                                2687351        0.42             2687351                2687351        0.42                                                                        2687351
+(m)               Any Other             3031            19530579                               19530579       3.08             19530579               19530579       3.08                                                                        19530579
+                  (specify)
+Sub-Total (B)                           420581          112259568                              112259568      17.68            112259568              112259568      17.68                                                                       11225956
+(4)
+Total Public
+Shareholding
+(B)=(B)(1)+                             420908          398037847                              398037847      62.67            398037847              398037847      62.67                                                                       39803784
+(B)(2)+(B)
+(3)+(B)(4)
+
+=== PDF PAGE 9 ===
+C                Table IV - Statement showing shareholding pattern of the Non Promoter- Non Public shareholder
+                 Custodian/DR
+( 1 )            Holder - Name of      0               0                                      0                              0                      0              0                                                                         0
+                 DR Holders (If
+                 Available)
+                 Employee Benefit
+                 Trust / Employee
+                 Welfare Trust
+                 under SEBI
+( 2 )            (Share Based          1               2519612                                2519612       0.4              2519612                2519612        0.4                                                                       2519612
+                 Employee
+                 Benefits and
+                 Sweat Equity)
+                 Regulations, 2021
+Total
+NonPromoter-
+Non Public                             1               2519612                                2519612                        2519612                2519612        0.4                                                                       2519612
+Shareholding
+(C)= (C)(1)+
+(C)(2)
+Total (                                420920          635100946                              635100946     100              635100946              635100946      100                                                                       63510094
+A+B+C2 )
+Total                                  420920          635100946                              635100946     100              635100946              635100946      100                                                                       63510094
+(A+B+C )
+
+=== PDF PAGE 10 ===
+                                          Table II - Statement showing shareholding pattern of the Promoter and Promoter Group
+                                         Shareholding
+                                         , as a %         Number of       Number of       Non-                                Total Number of
+                                         assuming         Locked in       Shares          Disposal         Other              Shares
+                                         full             shares          pledged         Undertaking      encumbrances,      encumbered                              Sub-categorization of shares
+                                         conversion       (XIII)          (XIV)           (XV)             if any (XVI)       (XVII) =
+                                         of                                                                                   (XIV+XV+XVI)
+                                         convertible                                                                                               Number of
+                  Category &             securities (                                                                                              equity shares
+Sr. No.           Name of the            as a                                                                                                      held in
+                  Shareholders (I)       percentage             As a            As a            As a                                               dematerialized
+                                         of diluted             % of            % of            % of             As a %              As a % of     form (XVIII)
+                                         share            No.   total     No.   total     No.   total      No.   of total     No.    total                            Sub-        Sub-        Sub-category
+                                         capital)         (a)   Shares    (a)   Shares    (a)   Shares     (a)   Shares       (a)    Shares                           category    category    (iii)
+                                         (XII)=                 held            held            held             held (b)            held (b)                         (i)         (ii)
+                                         (VII)+(X) As           (b)             (b)             (b)
+                                         a % of
+                                         (A+B+C2)
+A                 Table II - Statement showing shareholding pattern of the Promoter and Promoter Group
+(1)               Indian
+(a)               Individuals/Hindu      0.02                                                                                                      114130
+                  undivided Family
+(d)               Any Other              36.49                                                                                                     231755027
+                  (specify)
+Sub-Total (A)                            36.51                                                                                                     231869157
+(1)
+(2)               Foreign
+                  Individuals
+                  (NonResident
+(a)               Individuals/           0.42                                                                                                      2666880
+                  Foreign
+                  Individuals)
+Sub-Total (A)                            0.42                                                                                                      2666880
+(2)
+Total
+Shareholding
+of Promoter                              36.93                                                                                                     234536037
+and Promoter
+Group (A)=
+(A)(1)+(A)(2)
+B                 Table III - Statement showing shareholding pattern of the Public shareholder
+(1)               Institutions (Domestic)
+(a)               Mutual Funds           21.87                                                                                                     138182992          0           0           0
+(b)               Venture Capital        0                                                                                                         0                  0           0           0
+                  Funds
+(c)               Alternate              0.38                                                                                                      2439270            0           0           0
+                  Investment Funds
+(d)               Banks                  0                                                                                                         3314               0           0           0
+
+=== PDF PAGE 11 ===
+(e)               Insurance              10.99                                                                                                      69798091           0           0           0
+                  Companies
+(f)               Provident Funds/       0                                                                                                          0                  0           0           0
+                  Pension Funds
+                  Asset
+(g)               reconstruction         0                                                                                                          0                  0           0           0
+                  companies
+(h)               Sovereign Wealth       0                                                                                                          0                  0           0           0
+                  Funds
+(i)               NBFCs registered       0                                                                                                          1490               0           0           0
+                  with RBI
+(j)               Other Financial        0.09                                                                                                       0                  0           0           0
+                  Institutions
+(k)               Any Other              0                                                                                                          0                  0           0           0
+                  (specify)
+Sub-Total (B)                            33.34                                                                                                      210425157          0           0           0
+(1)
+(2)               Institutions (Foreign)
+(a)               Foreign Direct         0                                                                                                          0                  0           0           0
+                  Investment
+(b)               Foreign Venture        0                                                                                                          0                  0           0           0
+                  Capital Investors
+(c)               Sovereign Wealth       0                                                                                                          0                  0           0           0
+                  Funds
+                  Foreign Portfolio
+(d)               Investors              9.73                                                                                                       61765138           0           0           0
+                  Category I
+                  Foreign Portfolio
+(e)               Investors              0.27                                                                                                       1738734            0           0           0
+                  Category II
+                  Overseas
+(f)               Depositories           0                                                                                                          0                  0           0           0
+                  (holding DRs)
+                  (balancing figure)
+(g)               Any Other              0.08                                                                                                       1500               0           0           0
+                  (specify)
+Sub-Total (B)                            10.08                                                                                                      63505372           0           0           0
+(2)
+(3)               Central Government / State Government(s)
+                  Central
+(a)               Government /           0                                                                                                          0                  0           0           0
+                  President of India
+(b)               State Government       0                                                                                                          0                  0           0           0
+                  / Governor
+
+=== PDF PAGE 12 ===
+                   Shareholding by
+                   Companies or
+(c)                Bodies Corporate       1.57                                                                                                          10001500           0            0           0
+                   where Central /
+                   State Government
+                   is a promoter
+Sub-Total (B)                             1.57                                                                                                          10001500           0            0           0
+(3)
+(4)                Non-institutions
+                   Associate
+(a)                companies /            0                                                                                                             0                  0            0           0
+                   Subsidiaries
+                   Directors and
+                   their relatives
+                   (excluding
+(b)                independent            0                                                                                                             0                  0            0           0
+                   directors and
+                   nominee
+                   directors)
+(c)                Key Managerial         0                                                                                                             0                  0            0           0
+                   Personnel
+                   Relatives of
+                   promoters (other
+                   than ‘immediate
+                   relatives’ of
+(d)                promoters              0                                                                                                             0                  0            0           0
+                   disclosed under
+                   ‘Promoter and
+                   Promoter Group’
+                   category)
+                   Trusts where any
+                   person belonging
+                   to 'Promoter and
+                   Promoter Group'
+(e)                category is            0                                                                                                             0                  0            0           0
+                   'trustee',
+                   'beneficiary', or
+                   'author of the
+                   trust'
+                   Investor
+(f)                Education and          0.48                                                                                                          3030808            0            0           0
+                   Protection Fund
+                   (IEPF)
+                   Resident
+                   Individuals
+(g)                holding nominal        7.47                                                                                                          42992924           0            0           0
+                   share capital up
+                   to Rs. 2 lakhs
+                   Resident
+                   Individuals
+(h)                holding nominal        0.09                                                                                                          599075             0            0           0
+                   share capital in
+                   excess of Rs. 2
+                   lakhs
+
+=== PDF PAGE 13 ===
+(i)               Non Resident           0.47                                                                                                      2737353            0          0           0
+                  Indians (NRIs)
+(j)               Foreign Nationals      0                                                                                                         449                0          0           0
+(k)               Foreign                5.67                                                                                                      36040966           0          0           0
+                  Companies
+(l)               Bodies Corporate       0.42                                                                                                      2512801            0          0           0
+(m)               Any Other              3.08                                                                                                      19530579           0          0           0
+                  (specify)
+Sub-Total (B)                            17.68                                                                                                     107444955          0          0           0
+(4)
+Total Public
+Shareholding
+(B)=(B)(1)+                              62.67                                                                                                     391376984          0          0           0
+(B)(2)+(B)
+(3)+(B)(4)
+C                 Table IV - Statement showing shareholding pattern of the Non Promoter- Non Public shareholder
+                  Custodian/DR
+( 1 )             Holder - Name of                                                                                                                 0
+                  DR Holders (If
+                  Available)
+                  Employee Benefit
+                  Trust / Employee
+                  Welfare Trust
+                  under SEBI
+( 2 )             (Share Based           0.4                                                                                                       2519612
+                  Employee
+                  Benefits and
+                  Sweat Equity)
+                  Regulations, 2021
+Total
+NonPromoter-
+Non Public                                                                                                                                         2519612
+Shareholding
+(C)= (C)(1)+
+(C)(2)
+Total (                                  100                                                                                                       628432633
+A+B+C2 )
+Total                                    100                                                                                                       628432633
+(A+B+C )
+Disclosure of notes in case of promoter holding in dematerialsed form is less than 100 percentage                                                                                            Textual
+                                                                                                                                                                                             Information(1)
+
+=== PDF PAGE 14 ===
+                                                                                           Text Block
+                                                The Promoters had already sold 7450 shares in the market, consisting 6450 Shares in the name of Sunrays Properties &
+Textual Information(1)                          Investment Co Pvt Ltd. and 1000 shares in the name of Global Capital Ltd. in physical form . The above shares have not
+                                                been lodged with the Company for transfer. Global Capital Ltd. had been merged with Sunrays Properties & Investment Co
+                                                Pvt Ltd. w.e.f. July 22, 2020.
+
+=== PDF PAGE 15 ===
+                                                                       Individuals/Hindu undivided Family
+Sr. No.                1                                                2                                     3
+Name of the            RAAJA R S KANWAR                                 TARU KANWAR                           ONKAR KANWAR                              Click here to go back
+Shareholders (I)
+PAN (II)                                                                                                                                                Total
+No. of fully paid
+up equity shares       1880                                             12250                                 100000                                    114130
+held (IV)
+Total nos. shares
+held (VII) = (IV)+     1880                                             12250                                 100000                                    114130
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated     0                                                0                                     0.02                                      0.02
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg:X             1880                                             12250                                 100000                                    114130
+Total                  1880                                             12250                                 100000                                    114130
+Total as a % of        0                                                0                                     0.02                                      0.02
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants and           1880                                             12250                                 100000                                    114130
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a      0                                                0                                     0.02                                      0.02
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in         1880                                             12250                                 100000                                    114130
+dematerialized
+form (XVIII)
+Reason for not providing PAN
+Reason for not
+providing PAN
+Shareholder type       Promoter Group                                   Promoter Group                        Promoter
+
+=== PDF PAGE 16 ===
+                                                                             Any Other (specify)
+Sr. No.               1               2                              3                     4                      5                        6                  7
+Category              Bodies          Bodies Corporate               Bodies Corporate      Bodies Corporate       Bodies Corporate         Bodies             Bodies Corporate
+                      Corporate                                                                                                            Corporate
+                                      SUNRAYS                                                                     CLASSIC                  APOLLO             LANDMARK
+Name of the           GLOBAL          PROPERTIES AND                 RK                    PTL                    INDUSTRIES AND           GREEN              FARMS AND
+Shareholders (I)      CAPITAL         INVESTMENT                     ETERNANOVA            ENTERPRISES            EXPORTS                  ENERGY             HOUSING
+                      LTD             COMPANY PRIVATE                LTD                   LIMITED                LIMITED                  LIMITED            PRIVATE LTD
+                                      LTD
+PAN (II)
+No. of the            1               1                              1                     1                      1                        0                  0
+Shareholders (I)
+No. of fully paid
+up equity shares      1000            202284076                      36164                 10745232               18696005                 0                  0
+held (IV)
+Total nos. shares
+held (VII) = (IV)+    1000            202284076                      36164                 10745232               18696005                 0                  0
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated    0               31.85                          0.01                  1.69                   2.94                     0                  0
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg: X           1000            202284076                      36164                 10745232               18696005                 0                  0
+Total                 1000            202284076                      36164                 10745232               18696005                 0                  0
+Total as a % of       0               31.85                          0.01                  1.69                   2.94                     0                  0
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants and          1000            202284076                      36164                 10745232               18696005                 0                  0
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a     0               31.85                          0.01                  1.69                   2.94                     0                  0
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in        0               202277626                      36164                 10745232               18696005                 0                  0
+dematerialized
+form (XVIII)
+Reason for not providing PAN
+
+=== PDF PAGE 17 ===
+Reason for not
+providing PAN
+Shareholder type      Promoter        Promoter Group                 Promoter Group        Promoter Group         Promoter Group           Promoter           Promoter Group
+                      Group                                                                                                                Group
+
+=== PDF PAGE 18 ===
+                                                                                Any Other (specify)
+Sr. No.               8                           9                      10                   11                 12                            13                   14
+Category              Bodies Corporate            Bodies Corporate       Bodies               Bodies             Bodies Corporate              Bodies               Bodies Corporate
+                                                                         Corporate            Corporate                                        Corporate
+Name of the           POLAR ENERGY                FORTUNE                LETO                 MILERS             CONSTRUCTIVE                  OSK                  ARTEMIS
+Shareholders (I)      AND INFRATECH               PEOPMART PVT           REALTORS             GLOBAL             FINANCE PVT LTD               HOLDINGS             MEDICARE
+                      PVT LTD                     LTD                    PVT LTD              PVT LTD                                          PVT LTD              SERVICES LTD
+PAN (II)
+No. of the            0                           0                      0                    0                  0                             0                    0
+Shareholders (I)
+No. of fully paid
+up equity shares      0                           0                      0                    0                  0                             0                    0
+held (IV)
+Total nos. shares
+held (VII) = (IV)+    0                           0                      0                    0                  0                             0                    0
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated    0                           0                      0                    0                  0                             0                    0
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg: X           0                           0                      0                    0                  0                             0                    0
+Total                 0                           0                      0                    0                  0                             0                    0
+Total as a % of       0                           0                      0                    0                  0                             0                    0
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants and          0                           0                      0                    0                  0                             0                    0
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a     0                           0                      0                    0                  0                             0                    0
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in        0                           0                      0                    0                  0                             0                    0
+dematerialized
+form (XVIII)
+Reason for not providing PAN
+
+=== PDF PAGE 19 ===
+Reason for not
+providing PAN
+Shareholder type      Promoter Group             Promoter Group        Promoter Group       Promoter           Promoter Group               Promoter Group      Promoter Group
+                                                                                            Group
+
+=== PDF PAGE 20 ===
+                                                                                    Any Other (specify)
+Sr. No.                 15
+Category                Bodies Corporate                                                                                                                          Click here to go back
+Name of the             INDIAN INSTITUTE OF TRANSLATIONAL RESEARCH PRIVATE LIMITED
+Shareholders (I)
+PAN (II)                                                                                                                                                          Total
+No. of the              0                                                                                                                                         5
+Shareholders (I)
+No. of fully paid
+up equity shares        0                                                                                                                                         231762477
+held (IV)
+Total nos. shares
+held (VII) = (IV)+      0                                                                                                                                         231762477
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated      0                                                                                                                                         36.49
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg: X             0                                                                                                                                         231762477
+Total                   0                                                                                                                                         231762477
+Total as a % of         0                                                                                                                                         36.49
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants and            0                                                                                                                                         231762477
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a       0                                                                                                                                         36.49
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in          0                                                                                                                                         231755027
+dematerialized
+form (XVIII)
+Reason for not providing PAN
+Reason for not
+providing PAN
+Shareholder type        Promoter Group
+
+=== PDF PAGE 21 ===
+                                                      Individuals (NonResident Individuals/ Foreign Individuals)
+Sr. No.                1                                                      2                                     3
+Name of the            SHALINI KANWAR CHAND                                   NEERAJ KANWAR                         SIMRAN KANWAR                          Click here to go back
+Shareholders (I)
+PAN (II)                                                                                                                                                   Total
+No. of fully paid
+up equity shares       1977000                                                671380                                18500                                  2666880
+held (IV)
+Total nos. shares
+held (VII) = (IV)+     1977000                                                671380                                18500                                  2666880
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated     0.31                                                   0.11                                  0                                      0.42
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg: X            1977000                                                671380                                18500                                  2666880
+Total                  1977000                                                671380                                18500                                  2666880
+Total as a % of        0.31                                                   0.11                                  0                                      0.42
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants and           1977000                                                671380                                18500                                  2666880
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a      0.31                                                   0.11                                  0                                      0.42
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in         1977000                                                671380                                18500                                  2666880
+dematerialized
+form (XVIII)
+Reason for not providing PAN
+Reason for not
+providing PAN
+Shareholder type       Promoter Group                                         Promoter Group                        Promoter Group
+
+=== PDF PAGE 22 ===
+                                                                                    Mutual Funds
+Sr. No.                1                                               2                           3                                         4
+Name of the            ICICI PRUDENTIAL AGGRESSIVE                     DSP INDIA                   HDFC MUTUAL FUND - HDFC                   KOTAK LARGE                 Click here to go
+Shareholders (I)       HYBRID FUND                                     T.I.G.E.R. FUND             BSE 500 ETF                               CAP FUND                    back
+PAN (II)                                                                                                                                                                 Total
+No. of fully paid
+up equity shares       30593900                                        8140578                     58788385                                  30890526                    128413389
+held (IV)
+Total nos. shares
+held (VII) = (IV)+     30593900                                        8140578                     58788385                                  30890526                    128413389
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated     4.82                                            1.28                        9.26                                      4.86                        20.22
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg: X            30593900                                        8140578                     58788385                                  30890526                    128413389
+Total                  30593900                                        8140578                     58788385                                  30890526                    128413389
+Total as a % of        4.82                                            1.28                        9.26                                      4.86                        20.22
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants, ESOP,        30593900                                        8140578                     58788385                                  30890526                    128413389
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a      4.82                                            1.28                        9.26                                      4.86                        20.22
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in         30593900                                        8140578                     58788385                                  30890526                    128413389
+dematerialized
+form (XIV)
+Reason for not providing PAN
+Reason for not
+providing PAN
+Sub-categorization of shares
+Shareholding (No. of shares) under
+Sub-category (i)       0                                               0                           0                                         0                           0
+
+=== PDF PAGE 23 ===
+Sub-category (ii)        0                                                    0                             0                                            0                              0
+Sub-category (iii)       0                                                    0                             0                                            0                              0
+
+=== PDF PAGE 24 ===
+                                                                                 Insurance Companies
+Sr. No.                1                                                                                   2
+Name of the            LICI NEW ENDOWMENT PLUS-GROWTH FUND                                                 SBI LIFE INSURANCE CO. LTD                             Click here to go back
+Shareholders (I)
+PAN (II)                                                                                                                                                          Total
+No. of fully paid
+up equity shares       41745991                                                                            6854500                                                48600491
+held (IV)
+Total nos. shares
+held (VII) = (IV)+     41745991                                                                            6854500                                                48600491
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated     6.57                                                                                1.08                                                   7.65
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg: X            41745991                                                                            6854500                                                48600491
+Total                  41745991                                                                            6854500                                                48600491
+Total as a % of        6.57                                                                                1.08                                                   7.65
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants, ESOP,        41745991                                                                            6854500                                                48600491
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a      6.57                                                                                1.08                                                   7.65
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in         41738241                                                                            6854500                                                48592741
+dematerialized
+form (XIV)
+Reason for not providing PAN
+Reason for not
+providing PAN
+Sub-categorization of shares
+Shareholding (No. of shares) under
+Sub-category (i)       0                                                                                   0                                                      0
+
+=== PDF PAGE 25 ===
+Sub-category (ii)        0                                                                                          0                                                           0
+Sub-category (iii)       0                                                                                          0                                                           0
+
+=== PDF PAGE 26 ===
+                                                                                     Foreign Companies
+Sr. No.                 1
+Name of the             EMERALD SAGE INVESTMENT LTD                                                                                        Click here to go back
+Shareholders (I)
+PAN (II)                                                                                                                                   Total
+No. of fully paid
+up equity shares        36040966                                                                                                           36040966
+held (IV)
+Total nos. shares
+held (VII) = (IV)+      36040966                                                                                                           36040966
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated      5.67                                                                                                               5.67
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg: X             36040966                                                                                                           36040966
+Total                   36040966                                                                                                           36040966
+Total as a % of         5.67                                                                                                               5.67
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants, ESOP,         36040966                                                                                                           36040966
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a       5.67                                                                                                               5.67
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in          36040966                                                                                                           36040966
+dematerialized
+form (XIV)
+Reason for not providing PAN
+Reason for not
+providing PAN
+Sub-categorization of shares
+Shareholding (No. of shares) under
+Sub-category (i)        0                                                                                                                  0
+
+=== PDF PAGE 27 ===
+Sub-category (ii)         0                                                                                                                           0
+Sub-category (iii)        0                                                                                                                           0
+
+=== PDF PAGE 28 ===
+                                                                                    Any Other (specify)
+Sr. No.                 1                       2
+Category                Other                   Other
+Category / More         Category                Category                                                                                              Click here to go back
+than 1 percentage
+Name of the             BANKS                   FOREIGN INSTITUTIONAL INVESTORS
+Shareholders (I)
+PAN (II)                                                                                                                                              Total
+No. of the              1                       17                                                                                                    18
+Shareholders (I)
+No. of fully paid
+up equity shares        500                     498000                                                                                                498500
+held (IV)
+Total nos. shares
+held (VII) = (IV)+      500                     498000                                                                                                498500
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated      0                       0.08                                                                                                  0.08
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg: X             500                     498000                                                                                                498500
+Total                   500                     498000                                                                                                498500
+Total as a % of         0                       0.08                                                                                                  0.08
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants, ESOP,         500                     498000                                                                                                498500
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a       0                       0.08                                                                                                  0.08
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in          0                       1500                                                                                                  1500
+dematerialized
+form (XIV)
+Reason for not providing PAN
+
+=== PDF PAGE 29 ===
+Reason for not
+providing PAN
+Sub-categorization of shares
+Shareholding (No. of shares) under
+Sub-category (i)        0                        0                                                                                                        0
+Sub-category (ii)       0                        0                                                                                                        0
+Sub-category (iii)      0                        0                                                                                                        0
+
+=== PDF PAGE 30 ===
+                                                                                 Any Other (specify)
+Sr. No.                1                        2             3            4                   5
+Category               Clearing Members         HUF           Trusts       Others              Others
+Category / More        Category                 Category      Category     Category            More than 1 percentage of shareholding
+than 1 percentage
+Name of the                                                                CUSTODIAN           CUSTODIAN A/C - ASHWIN SHANTILAL MEHTA                               Click here to go back
+Shareholders (I)
+PAN (II)                                                                                       ZZZZZ9999Z                                                           Total
+No. of the             5                        3001          11           14                  1                                                                    3031
+Shareholders (I)
+No. of fully paid
+up equity shares       4390                     868024        27315        18630850            13507300                                                             19530579
+held (IV)
+Total nos. shares
+held (VII) = (IV)+     4390                     868024        27315        18630850            13507300                                                             19530579
+(V)+ (VI)
+Shareholding as a
+% of total no. of
+shares (calculated     0                        0.14          0            2.93                2.13                                                                 3.07
+as per SCRR,
+1957) (VIII) As a
+% of (A+B+C2)
+Number of Voting Rights held in each class of securities (IX)
+Class eg: X            4390                     868024        27315        18630850            13507300                                                             19530579
+Total                  4390                     868024        27315        18630850            13507300                                                             19530579
+Total as a % of        0                        0.14          0            2.93                2.13                                                                 3.07
+Total Voting rights
+Total No. of shares
+on fully diluted
+basis (including
+warrants, ESOP,        4390                     868024        27315        18630850            13507300                                                             19530579
+Convertible
+Securities etc.)
+(XI)=(VII+X)
+Shareholding , as a
+% assuming full
+conversion of
+convertible
+securities ( as a      0                        0.14          0            2.93                2.13                                                                 3.07
+percentage of
+diluted share
+capital) (XII)=
+(VII)+(X) As a %
+of (A+B+C2)
+Number of equity
+shares held in         4390                     868024        27315        18630850            13507300                                                             19530579
+dematerialized
+form (XIV)
+Reason for not providing PAN
+
+=== PDF PAGE 31 ===
+Reason for not                                                                                      Textual Information(1)
+providing PAN
+Sub-categorization of shares
+Shareholding (No. of shares) under
+Sub-category (i)        0                         0              0             0                    0                                                                        0
+Sub-category (ii)       0                         0              0             0                    0                                                                        0
+Sub-category (iii)      0                         0              0             0                    0                                                                        0
+
+=== PDF PAGE 32 ===
+                                                                                              Text Block
+Textual Information(1)                            PAN details not available with the Company as the shareholder falls under the category of Notified Parties under the
+                                                  provisions of Special Court (Trial of offenses relating to transactions in Securities), Act 1992.
+
+=== PDF PAGE 33 ===
+                                                                                    Significant Beneficial Owners
+      Details of the SBO                                            Details of the registered owner                                    Details of holding/ exercise of right of the SBO in
+                                                                                                                                       the reporting company, whether direct or indirect*:          Date of
+                           Passport                                                            Passport                                Whether by virtue of:                                        creation /
+Sr.                        No. in                    Nationality                               No. in                   Nationality                                                                 acquisition
+No.                        case of                   (Applicable                               case of                  (Applicable                       Rights on                  Exercise       of
+      Name          PAN    a          Nationality    in case of     Name                PAN    a          Nationality   in case of               Voting   distributable   Exercise   of             significant
+                           foreign                   Any other                                 foreign                  Any other      Shares    rights   dividend or     of         significant    beneficial
+                           national                  is selected)                              national                 is selected)                      any other       control    influence      interest
+                                                                                                                                                          distribution
+                                                                    SUNRAYS
+                                                                    PROPERTIES
+1     ONKAR                           India                         AND                                   India                        31.85                              No         No            02-05-1997
+      KANWAR                                                        INVESTMENT
+                                                                    COMPANY
+                                                                    PVT LTD
+                                                                    CLASSIC
+2     ONKAR                           India                         INDUSTRIES                            India                        2.94                               No         No            25-08-2001
+      KANWAR                                                        AND
+                                                                    EXPORTS LTD
+      ONKAR                                                         PTL
+3     KANWAR                          India                         ENTERPRISES                           India                        1.69                               No         No            15-11-2017
+                                                                    LTD
+
+=== PDF PAGE 34 ===

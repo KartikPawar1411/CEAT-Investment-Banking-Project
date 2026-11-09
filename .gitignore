@@ -1,0 +1,19 @@
+# Temporary build and review files
+.qa/
+.ceat-build-*/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Microsoft Office temporary files
+~$*
+*.tmp
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,57 @@
+"""Write the repository landing page from the same cached results as the publications."""
+from committee import *
+def build():
+    text=f"""# CEAT Limited | Expansion financing and valuation
+
+**6 November 2026 · India · INR crore unless indicated**
+
+**{short()}.** {gate()} {external()}
+
+| Open | Review |
+|---|---|
+| [One-page investment brief](output/CEAT_Valuation_Summary.pdf) | Recommendation, five funding cases and valuation |
+| [Editable Excel model](output/CEAT_Financial_Valuation_Model.xlsx) | Start at Cover & Dashboard, then Funding Decision. Edit blue assumption cells in Funding Inputs. |
+| [Investment banking pitch book](output/CEAT_Investment_Banking_Pitch_Book.pptx) | Slides 2–3 show the decision, capital requirement and conditions for release. Slides 13–15 reconcile the operating case with the market. |
+| [Research report](reports/CEAT_Investment_Banking_Research_Report.md) | Company and sector evidence, forecast economics, peer and intrinsic valuations, risks and references |
+| [Input lineage](data/processed/input_register.csv) · [original sources](data/sources.csv) | Filed measures, reporting units, conversion, dates and source locators |
+| [Validation results](reports/validation.md) · [capex threshold test](reports/decision_threshold_test.csv) | Independent checks and a separately recalculated, republished decision |
+
+## Capital decision
+
+{markdown_table(HEAD,funding_table())}
+
+First gap is the first modeled quarter-end below the {cv(FI,'B4')} analyst floor after any planned issuance. Peak loans exclude lease liabilities. Affordable is the portion of the proposed tranche that can be paid on its specified schedule while preserving the floor through March 2028. A balancing facility covers deficits in the integrated statements; its availability is unverified. View the unassisted cash path alongside financed cash. September opens at ₹32cr and intra-quarter liquidity is unknown.
+
+FY27 standalone capex guidance was ₹1,400cr plus ₹100–150cr for CAMSO upstream equipment. The midpoint leaves ₹723cr of core spending in H2 after ₹802cr in H1. The proposed tranche is incremental. FY26 note 42 reported ₹1,785.12cr of March capital contracts. The September contracted balance and payment schedule are unknown. The core expansion bucket is an analyst planning allocation. The model includes the separate US$44m trademark in Q2 FY29. Inventory timing remains a working-capital risk.
+
+## Valuation
+
+{dcf_story()} {market()} FY26 EBITDA quartiles imply {price(v(VS,'B6'))}–{price(v(VS,'D6'))}. {legacy()} Peer-beta WACC gives {price(v(ND,'H26'))} per share. Forecast returns depend on input-cost recovery, utilization, mix and continuing capital efficiency.
+
+## Rebuild on Windows
+
+Use 64-bit Windows, desktop Microsoft Excel and PowerPoint registered for COM automation, PowerShell, Python 3.12 and the packages in requirements.txt. ReportLab uses installed Calibri regular and bold fonts by default. Set CEAT_FONT_REGULAR and CEAT_FONT_BOLD to absolute paths to Unicode TTF alternatives when needed. Close open copies of the files before publishing.
+
+```powershell
+py -3.12 -m venv .venv
+.\\.venv\\Scripts\\python.exe -m pip install -r requirements.txt
+.\\.venv\\Scripts\\python.exe build.py --render
+```
+
+The normal build is offline. It verifies the archived evidence hashes, material filing values and cutoff dates, builds an editable workbook, recalculates it in Excel, and checks the financial statements and valuation before generating the publications. A separate Excel copy changes the tranche amount and regenerates the deck, report and brief. The test checks that the decision and numerical outputs change together. Only validated staged outputs are published. With --render, PowerPoint exports every slide and the PDF pages are rendered for inspection under .qa. The published pitch-book PDF is a rendering of the editable deck. The build guard leaves prior published outputs intact on validation failure.
+
+For a presentation-only rebuild, use `build.py --publish-only --render` after a full build. This requires the cached baseline workbook and .qa/threshold.xlsx from the same full build. To persist new assumptions through a full rebuild, change src/expansion_model.py. Manual edits made in Excel recalculate the linked scenarios and dashboard; a full rebuild restores the source-controlled assumptions. The snapshot date is fixed. Refreshing a source or changing the cutoff requires a new evidence review and an explicit update to data/archive_hashes.csv.
+
+## Model conventions
+
+- Five integrated cases run quarterly from December 2026 through March 2031. FY Forecast aggregates the on-time statements and combines FY27 with reported H1. Rows 37–38 show forecast-period flows. Other assets and liabilities are fixed at opening residuals. No balancing plug is used.
+- The core volume index and OHT relative realization are analyst proxies. September standalone product mix anchors core equivalent-unit shares. CAMSO end-customer billing is scaled separately. Acquired FY26 product revenue of ₹420.65cr supports a directional ex-CAMSO comparison. Group physical volumes, audited segment profit and individual plant returns are unavailable.
+- Existing borrowing costs accrue on opening debt, planned term proceeds accrue from draw, and a balancing draw accrues interest from the next quarter. Projected short-term renewals and term funding are assumptions. Gross term balances, reported current maturities and disclosed repayment weights are reconciled in Funding Inputs. Leases are debt in the EV and new ROU assets are capital investment in UFCF.
+- The original DCF and original scenario/sensitivity schedules are labeled reference. Normalized DCF contains the revised calculation, value bridge, peer-beta sensitivity and market-implied margin path. Trading Comps distinguishes the three FY26 peers, two aligned September LTM peers and MRF's June LTM observation.
+- data/raw holds the frozen issuer and market archive. CCIL's yield is transcribed in the dated source register; its original daily web table is not archived. Some older filing dispatch days remain unverified. The inventory commitment has no disclosed September unpaid balance. Analyst debt terms, minimum cash and stress triggers are not company covenants.
+
+Independent public-information analyst portfolio project.
+"""
+    (ROOT/'README.md').write_text(text,encoding='utf-8')
+if __name__=='__main__':build()
+
