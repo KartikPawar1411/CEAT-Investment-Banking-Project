@@ -1,6 +1,6 @@
 # Valuation quality control
 
-129 checks passed, including 10,263 cached Excel formulas across 30 sheets.
+129 checks passed, including 11,709 cached Excel formulas across 32 sheets.
 
 Independent reference DCF: INR 1,370.16 per listed share. Independent WACC: 13.009324%.
 
@@ -125,7 +125,7 @@ Independent reference DCF: INR 1,370.16 per listed share. Independent WACC: 13.0
 - Growth/margin grid 5,5
 - Formula caches populated, no Excel errors
 - All model checks pass
-- Pitch book has 18 slides
+- Pitch book has 19 slides
 - Research report has 18 requested sections
 - Summary is one page
 - Core figure 1,370 in all published documents
@@ -140,3 +140,7 @@ Independent reference DCF: INR 1,370.16 per listed share. Independent WACC: 13.0
 
 - Tranche ₹300 crore: **DEFER / RESIZE FUNDING**, peak on-time bridge ₹551 crore; normalized DCF ₹3,324/share. The workbook, deck, brief and report agree.
 - Tranche ₹150 crore: **FINANCE BEFORE RELEASE**, peak on-time bridge ₹399 crore; normalized DCF ₹3,360/share. The workbook, deck, brief and report agree.
+
+## NCD funding case
+
+816 checks passed. Rebuilt the comparable spreads and indicative coupons from data/comparable_ncd_issues.csv, the sixth case's interest, cash, debt and balance-sheet roll-forwards through FY31, and its coverage and leverage metrics. Operations equal the On time case in every quarter. NCD case against the floor: **GAP REMAINS**; against the existing decision: **CONSISTENT**.

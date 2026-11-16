@@ -80,7 +80,7 @@ def run():
     check('Formula caches populated, no Excel errors',all(book[sh.title][cell.coordinate].value is not None and book[sh.title][cell.coordinate].data_type!='e' for sh in formula_book for rr in sh for cell in rr if cell.data_type=='f'))
     check('All model checks pass',all(v('Model Checks','D'+str(i))=='PASS' for i in range(5,17)))
     ppt=Presentation(ROOT/'output/CEAT_Investment_Banking_Pitch_Book.pptx')
-    check('Pitch book has 18 slides',len(ppt.slides)==18)
+    check('Pitch book has 19 slides',len(ppt.slides)==19)
     report=(ROOT/'reports/CEAT_Investment_Banking_Research_Report.md').read_text(encoding='utf-8')
     check('Research report has 18 requested sections',len(re.findall(r'^## \d+\.',report,re.M))==18)
     pdf=PdfReader(ROOT/'output/CEAT_Valuation_Summary.pdf');check('Summary is one page',len(pdf.pages)==1)

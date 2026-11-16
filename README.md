@@ -12,6 +12,7 @@
 | [Research report](reports/CEAT_Investment_Banking_Research_Report.md) | Company and sector evidence, forecast economics, peer and intrinsic valuations, risks and references |
 | [Input lineage](data/processed/input_register.csv) · [original sources](data/sources.csv) | Filed measures, reporting units, conversion, dates and source locators |
 | [Validation results](reports/validation.md) · [capex threshold test](reports/decision_threshold_test.csv) | Independent checks and a separately recalculated, republished decision |
+| [NCD funding case](docs/ncd_case.md) | Sixth funding case: a five-year NCD for the ₹300cr tranche at an indicative 8.08% (113 bp over the 5-year G-sec), from five AA/AA+ tyre-sector issues. It cuts the peak bridge from ₹551cr to ₹254cr but does not remove it, so the decision is unchanged. |
 
 ## Capital decision
 

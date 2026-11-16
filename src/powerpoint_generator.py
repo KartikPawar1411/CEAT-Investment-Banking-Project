@@ -1,4 +1,4 @@
-"""Write an editable 18-slide investment banking pitch book from recalculated Excel results."""
+"""Write an editable 19-slide investment banking pitch book from recalculated Excel results."""
 from results import *
 from decision_slides import place
 from pptx import Presentation
@@ -136,6 +136,8 @@ def build():
     table(s,.62,1.95,12.04,3.95,['Alternative','Score / 5','Financial and execution implications'],[[v(PE,'A'+str(r)),f'{v(PE,"I"+str(r)):.2f}',t] for r,t in [(42,'Use existing plants and customer approvals. Stage tooling against orders and cash conversion.'),(45,'Cap distributor inventory support. Test overseas service levels before granting exclusivity.'),(44,'₹1,000 crore of debt at 7.8% adds ₹78 crore of annual pretax interest.'),(43,'Asset or minority structures limit initial consideration. Underwrite quality and customer retention.'),(46,'A control premium must cover integration risk and satisfy promoter and minority shareholders.')]],ratios=[1.55,.73,4.2],size=13.2,emph=1)
     place(17,(base,table,stat,note,txt))
     place(18,(base,table,stat,note,txt))
+    from ncd_slide import place_ncd
+    place_ncd((base,table,stat,note,txt))
     R.save(publish_path('output/CEAT_Investment_Banking_Pitch_Book.pptx'))
 if __name__=='__main__':build()
 

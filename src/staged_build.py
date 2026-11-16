@@ -34,13 +34,13 @@ def build():
         else:
             run('excel_generator.py');run('recalculate.ps1')
         run('verify_expansion.py')
-        for script in ['chart_generator.py','powerpoint_generator.py','pdf_summary.py','research_report.py','data_validation.py','check_publication.py','readme_publish.py']:run(script)
+        for script in ['chart_generator.py','powerpoint_generator.py','pdf_summary.py','research_report.py','data_validation.py','check_publication.py','verify_ncd.py','readme_publish.py']:run(script)
         run('render_slides.ps1')
         shutil.copy2(stage/'.qa/pitch_book.pdf',stage/'output/CEAT_Investment_Banking_Pitch_Book.pdf')
         from pypdf import PdfReader
         from openpyxl import load_workbook
         pages=PdfReader(stage/'.qa/pitch_book.pdf').pages
-        if len(pages)!=18:raise ValueError('PowerPoint PDF page count')
+        if len(pages)!=19:raise ValueError('PowerPoint PDF page count')
         output_text=' '.join(page.extract_text() for page in pages[:3])
         cached=load_workbook(stage/'output'/MODEL,data_only=True,read_only=True)
         decision=cached['Funding Decision'];value=cached['Normalized DCF']['B36'].value

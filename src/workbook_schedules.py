@@ -147,5 +147,7 @@ def finish(ns):
     wb[TC].freeze_panes='B5';wb[AS].freeze_panes='B5';wb.active=0
     from investment_decision import upgrade
     upgrade(wb)
+    from ncd_case import add_ncd
+    add_ncd(wb)
     OUT.parent.mkdir(exist_ok=True);wb.save(OUT)
 
