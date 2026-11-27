@@ -1,0 +1,9 @@
+* text=auto
+*.pdf binary
+*.png binary
+*.jpg binary
+*.xlsx binary
+*.xlsm binary
+*.pptx binary
+# The evidence archive is pinned by SHA-256 (data/archive_hashes.csv): keep its bytes exactly as archived.
+data/raw/** -text

@@ -1,0 +1,34 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -r requirements.txt
+      - name: Archived evidence (SHA-256 pins, cutoff, cited-page ties)
+        run: cd src && python validate_sources.py
+      - name: Independent rebuild of the five funding cases and the DCF
+        run: cd src && python verify_expansion.py
+      - name: Independent rebuild of the NCD case and its pricing
+        run: cd src && CEAT_CHECK_MODEL=../output/CEAT_Financial_Valuation_Model.xlsx python verify_ncd.py
+      - name: Tests
+        run: python -m pytest -q
+      - name: README figures match the workbook
+        run: |
+          cd src && python readme_publish.py && cd ..
+          git diff --exit-code README.md
+      - name: Tearsheet builds and stays one page
+        run: |
+          python build_tearsheet.py
+          python -c "import pymupdf; n = len(pymupdf.open('output/CEAT_Deal_Tearsheet.pdf')); assert n == 1, n"
